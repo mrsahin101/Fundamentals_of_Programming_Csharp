@@ -41,7 +41,7 @@
 - typeof        -uint           -ulong          -unchecked      -unsafe     -ushort
 - using         -virtual        -void           -volatile       -while
 
-*-* There might be more keywords. This is kinda general list of it and some of them are not used. I just wanted to write it once to go through them. Future ME don't laugh at me :)
+* There might be more keywords. This is kinda general list of it and some of them are not used. I just wanted to write it once to go through them. Future ME don't laugh at me :)
 
 # Automatic Memory Managment
 - C# has automatic garbage collector. This helps alot to write software and make development faster. CLR(Common Language Run-Time) has built in garbage collector.
