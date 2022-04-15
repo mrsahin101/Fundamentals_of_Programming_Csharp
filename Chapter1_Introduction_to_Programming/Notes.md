@@ -50,3 +50,12 @@
 - When we compile code we don't turn it to specific processor machine code. Rather We turn it into Microsoft Intermediate Language(MSIL).
 Then it's executed in virtual envoirment called CLR(Common Language Run-Time)
 - CLR is basicly virtual machine which has own registers and instruction. It ensures the execution of .NET programs on different hardware platforms and Operating Systems.
+
+# .NET Platform
+
+## Flavours
+- .NET Framework -> General purpose
+- .NET Compact Framework (CF) -> Light version of .NET framework. Usually for Mobile Apps etc
+- Silverlight -> Light version of .NET framework. Usually for browsers, Rich Internet Applications etc
+- .NET for Windows Store Apps -> Designed for programs that going to run on Windows machines
+
