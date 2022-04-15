@@ -2,12 +2,12 @@
 
 # Stages in Software Development
 
-1-> Gathering Requirments for product and creating Task
-2-> Planning and preparing the architecture design
-3-> Implementation
-4-> Product Trails(testing)
-5-> Deployment and exploitation
-6-> Support
+- Gathering Requirments for product and creating Task
+- Planning and preparing the architecture design
+- Implementation
+- Product Trails(testing)
+- Deployment and exploitation
+- Support
 
 # Usefull Information snippets in Chapter
 - Every C# program starts from Main() method. It must be static void.
@@ -23,8 +23,8 @@
 - Methods name must start with a capital letter
 
 # C# Language
-1-> Modern, General-Purpose, Object-Oriented High Level Programming Language
-2-> Syntax similiar to C and C++
+- Modern, General-Purpose, Object-Oriented High Level Programming Language
+- Syntax similiar to C and C++
 
 # Keywords of C#
 - abstract      -as             -base           -bool           -break      -byte
@@ -41,7 +41,7 @@
 - typeof        -uint           -ulong          -unchecked      -unsafe     -ushort
 - using         -virtual        -void           -volatile       -while
 
-- There might be more keywords. This is kinda general list of it and some of them are not used. I just wanted to write it once to go through them. Future ME don't laugh at me :)
+*-* There might be more keywords. This is kinda general list of it and some of them are not used. I just wanted to write it once to go through them. Future ME don't laugh at me :)
 
 # Automatic Memory Managment
 - C# has automatic garbage collector. This helps alot to write software and make development faster. CLR(Common Language Run-Time) has built in garbage collector.
