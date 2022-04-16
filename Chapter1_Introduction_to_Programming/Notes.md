@@ -15,7 +15,9 @@
 - Code indentetion is not important to compiler.But improves code readability. Good format and identation is good practice.
 - Writing each class in separate file helps for code readability and code modularity
 - Programs written .NET frame-work languages can easly be changed to each other. For example from Visual Basic to C# or vice versa. or F# etc
-
+- .NET has rich libraries can be used to speed-up development process.
+- Each .NET library has API(Application Programming Interface) offering to our usage.
+- API's has to be explained to user. The explanations and instructions are called documentation.
 
 # Some Formatting Rules
 - All class name must start with a capital letter
@@ -59,3 +61,4 @@ Then it's executed in virtual envoirment called CLR(Common Language Run-Time)
 - Silverlight -> Light version of .NET framework. Usually for browsers, Rich Internet Applications etc
 - .NET for Windows Store Apps -> Designed for programs that going to run on Windows machines
 
+# Compiling Code And IDE's
