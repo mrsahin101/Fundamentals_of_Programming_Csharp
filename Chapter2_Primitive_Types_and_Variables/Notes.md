@@ -14,4 +14,4 @@
 - Object Type : object
 
 These are built-in (primitives) data types in C#. They are embedded in C# lowest level.
-![Primitive Data Types in C#](/primitive_data_types_values.png)
+![Primitive Data Types in C#](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter2_Primitive_Types_and_Variables/primitive_data_types_values.png)
