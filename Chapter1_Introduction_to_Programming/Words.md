@@ -1,3 +1,12 @@
 # This is the file contains English Words that I am not fimiliar with it. It will contain English-Turkish translation to words for those in Chapter-1 
 - thorough : kapsamlı, eksiksiz;
-- invoke : çağırmak, hatırlatmak,uyandırmak;
+- invoke : çağırmak, hatırlatmak, uyandırmak;
+- adjoining : bitişik, yanyana;
+- endeavor : çaba, gayrat, uğraş;
+- whether : ikisinden biri, eğer;
+- regardless : ne olursa olsun, herşeye rağmen;
+- auxiliary : ek, yardımcı, yedek;
+- intent : niyet, amaç, kasıt;
+- successor : varis, halef;
+- prominence : önem, ün, şöhret;
+- poised : hazır;

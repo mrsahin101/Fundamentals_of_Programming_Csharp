@@ -19,6 +19,7 @@
 - Each .NET library has API(Application Programming Interface) offering to our usage.
 - API's has to be explained to user. The explanations and instructions are called documentation. Microfost Documentation -> https://docs.microsoft.com/en-us/documentation/
 - To develop C# projects on Linux: There is called MONO-project open source software. Can experiment with it later.
+- When we create files it's important to give meaningfull names
 
 # Usefull Command-Line Commands
 - md : make new directory
@@ -68,3 +69,33 @@ Then it's executed in virtual envoirment called CLR(Common Language Run-Time)
 - .NET for Windows Store Apps -> Designed for programs that going to run on Windows machines
 
 # Compiling Code And IDE's
+- Integrated Development Envoirments( IDE's) can be really usefull to use when dealing with big projects. 
+- IDE's can be used for debugging, coding, testing, acessing other libraries, designing UI, etc..
+- When trying to compile a code and giving errors; checking error messages helping a lot to find where the problem is.
+- There are few alternatives to Visual Studio but honestly none of them is good as Visual Studio.
+
+# Debugging 
+
+- Debugging is important part of software development.
+- We can use breakpoints, Step-by-Step execution to find the bugs.
+- Once we find the problem with debugging we can correct it easly.
+
+# Decompiling
+- Decompiling can be used to extract source file from .exe file. In some cases can be usefull.
+- ILSpy or JustDecompile tools can be used.
+
+# Other .NET Languages
+
+## VB.NET 
+- Successor of Visual Basic 6.0
+- Not recommended
+- Similiar to C#
+
+## Managed C++ 
+- Implementation of C++ to .NET framework.
+
+## F#
+- Functional programming for .NET
+
+## JavaScript
+- Javascript implementation for .NET
