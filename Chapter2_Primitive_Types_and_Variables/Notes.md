@@ -37,3 +37,8 @@ These are built-in (primitives) data types in C#. They are embedded in C# lowest
 - Conclusion is that floating-point number arithmetic can produce mistakes, therefore not appropriate for fields when you need absolutly precise calculations like finance.
 
 ## Decimal Data Type 
+- C# supports called decimal floating-point arithmetic. When we do this we don't lose accuracy. 
+- Decimal type is 128-bit. It has precision 28-29 decimal places.
+- This type is almost perfect for financal calculations or where precisions matters a lot.
+- Double type allows us to work with very big numbers or very small numbers with less precision. In other hand Decimal type allows us to work with smaller range of values but with high precision.
+- Calculations with Decimal type done by software. Double type is done by hardware(usually). That's why Calculations with Decimal type is so much slower than Double type. Use Decimal only when it's really necessary. 

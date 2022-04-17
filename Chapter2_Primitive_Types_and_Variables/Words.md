@@ -5,3 +5,4 @@
 - correspondence : yazışma, haberleşme, uygunluk, ilişki;
 - suffix : sonek, sonuna eklemek;
 - conclude : sonuçlandırmak, karar vermek, karara varmak;
+- inability : yetersizlik, acizlik, olasılıksızlık;
