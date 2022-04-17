@@ -2,3 +2,6 @@
 - primitive : ilkel, basit, ilk;
 - literal : gerçek, tam, abartısız;
 - preserve : korumak, muhafaza etmek;
+- correspondence : yazışma, haberleşme, uygunluk, ilişki;
+- suffix : sonek, sonuna eklemek;
+- conclude : sonuçlandırmak, karar vermek, karara varmak;
