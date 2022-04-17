@@ -7,4 +7,10 @@
 - Integer Types : sbyte, byte, short, ushort, int, uint, long, ulong
 - Real Floating-point Types : float, double
 - Real Type with decimal Percision : decimal
-![Red] color test
+```css
+   body{
+       color : red;
+        test;
+   }
+   
+```
