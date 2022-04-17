@@ -17,7 +17,13 @@
 - Programs written .NET frame-work languages can easly be changed to each other. For example from Visual Basic to C# or vice versa. or F# etc
 - .NET has rich libraries can be used to speed-up development process.
 - Each .NET library has API(Application Programming Interface) offering to our usage.
-- API's has to be explained to user. The explanations and instructions are called documentation.
+- API's has to be explained to user. The explanations and instructions are called documentation. Microfost Documentation -> https://docs.microsoft.com/en-us/documentation/
+- To develop C# projects on Linux: There is called MONO-project open source software. Can experiment with it later.
+
+# Usefull Command-Line Commands
+- md : make new directory
+- cd : change to directory
+- csc : C# compilier command
 
 # Some Formatting Rules
 - All class name must start with a capital letter
@@ -54,7 +60,7 @@ Then it's executed in virtual envoirment called CLR(Common Language Run-Time)
 - CLR is basicly virtual machine which has own registers and instruction. It ensures the execution of .NET programs on different hardware platforms and Operating Systems.
 
 # .NET Platform
-
+- .NET technology is collection of .NET classes, libraries, tools, standarts, and other programming means.
 ## Flavours
 - .NET Framework -> General purpose
 - .NET Compact Framework (CF) -> Light version of .NET framework. Usually for Mobile Apps etc
