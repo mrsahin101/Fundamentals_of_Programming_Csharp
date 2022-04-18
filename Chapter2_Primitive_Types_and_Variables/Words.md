@@ -6,3 +6,5 @@
 - suffix : sonek, sonuna eklemek;
 - conclude : sonuçlandırmak, karar vermek, karara varmak;
 - inability : yetersizlik, acizlik, olasılıksızlık;
+- punctuation : noktalama, noktalama işaretleri, sözünü kesme;
+- wrappers : sarmalayıcılar,kapsayıcılar;

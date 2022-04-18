@@ -42,3 +42,17 @@ These are built-in (primitives) data types in C#. They are embedded in C# lowest
 - This type is almost perfect for financal calculations or where precisions matters a lot.
 - Double type allows us to work with very big numbers or very small numbers with less precision. In other hand Decimal type allows us to work with smaller range of values but with high precision.
 - Calculations with Decimal type done by software. Double type is done by hardware(usually). That's why Calculations with Decimal type is so much slower than Double type. Use Decimal only when it's really necessary. 
+
+## Char Type
+- Char type is single character (16-bit Unicode table character). Declared in C# with keyword char.
+- Unicode table is technological standart that represents any character(letter, punctuation, etc.) from all human languages.
+
+## Object Type
+- It's a special type. Which is parent of all other types in the .NET framework.
+- Declared with keyword object, it can take values from any other types.
+- It's reference type. Basicly it's address of memory area contains the actual value. This makes object type a universal data container.
+
+## Nullable Types
+- Nullable types specific types for value types (int,bool,double...) that allowing them to store null. Normaly we won't be able to store null in those type of values. but with nullable we can store null value.
+- Basicly nullable types are reference(pointer) to somewhere in the memory. it may or may not contain value there.
+

@@ -3,17 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1_Variables", "Example1_Variables\Example1_Variables.csproj", "{ABF6DD6A-46D0-4828-8495-F27167C4C465}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example1_Variables", "Example1_Variables\Example1_Variables.csproj", "{ABF6DD6A-46D0-4828-8495-F27167C4C465}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2_Floats", "Example2_Floats\Example2_Floats.csproj", "{521A4C15-3E9A-44B8-844D-0E3BB77F821C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example2_Floats", "Example2_Floats\Example2_Floats.csproj", "{521A4C15-3E9A-44B8-844D-0E3BB77F821C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example3_Precision", "Example3_Precision\Example3_Precision.csproj", "{163F4BA2-63AC-480E-97B2-61F72E5CD017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example3_Precision", "Example3_Precision\Example3_Precision.csproj", "{163F4BA2-63AC-480E-97B2-61F72E5CD017}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example4_Floating_Errors", "Example4_Floating_Errors\Example4_Floating_Errors.csproj", "{36E0FD55-203D-457F-A3AA-1B4E2504625D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example4_Floating_Errors", "Example4_Floating_Errors\Example4_Floating_Errors.csproj", "{36E0FD55-203D-457F-A3AA-1B4E2504625D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example5_Decimal", "Example5_Decimal\Example5_Decimal.csproj", "{23C4987C-F584-43AD-822F-12C831C68715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example5_Decimal", "Example5_Decimal\Example5_Decimal.csproj", "{23C4987C-F584-43AD-822F-12C831C68715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example6_Boolean", "Example6_Boolean\Example6_Boolean.csproj", "{A12B2D72-6D88-4632-98D3-C6A9F65E7114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example6_Boolean", "Example6_Boolean\Example6_Boolean.csproj", "{A12B2D72-6D88-4632-98D3-C6A9F65E7114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example7_Char", "Example7_Char\Example7_Char.csproj", "{36FB471F-4900-4F6B-96C6-B932E48F68EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example8_Strings", "Example8_Strings\Example8_Strings.csproj", "{59754B9E-6C8C-4984-B5CC-536CE98EF2DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example9_Objects", "Example9_Objects\Example9_Objects.csproj", "{96C2689F-1BC8-433B-AA53-912CECD1D9C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example10_Nullable", "Example10_Nullable\Example10_Nullable.csproj", "{C6985B6B-180E-449C-86D7-93681C2BA277}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,22 @@ Global
 		{A12B2D72-6D88-4632-98D3-C6A9F65E7114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A12B2D72-6D88-4632-98D3-C6A9F65E7114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A12B2D72-6D88-4632-98D3-C6A9F65E7114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FB471F-4900-4F6B-96C6-B932E48F68EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FB471F-4900-4F6B-96C6-B932E48F68EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FB471F-4900-4F6B-96C6-B932E48F68EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FB471F-4900-4F6B-96C6-B932E48F68EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59754B9E-6C8C-4984-B5CC-536CE98EF2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59754B9E-6C8C-4984-B5CC-536CE98EF2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59754B9E-6C8C-4984-B5CC-536CE98EF2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59754B9E-6C8C-4984-B5CC-536CE98EF2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C2689F-1BC8-433B-AA53-912CECD1D9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C2689F-1BC8-433B-AA53-912CECD1D9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C2689F-1BC8-433B-AA53-912CECD1D9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C2689F-1BC8-433B-AA53-912CECD1D9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6985B6B-180E-449C-86D7-93681C2BA277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6985B6B-180E-449C-86D7-93681C2BA277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6985B6B-180E-449C-86D7-93681C2BA277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6985B6B-180E-449C-86D7-93681C2BA277}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
