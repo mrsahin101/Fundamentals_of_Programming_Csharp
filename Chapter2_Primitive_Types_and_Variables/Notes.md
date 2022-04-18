@@ -55,4 +55,28 @@ These are built-in (primitives) data types in C#. They are embedded in C# lowest
 ## Nullable Types
 - Nullable types specific types for value types (int,bool,double...) that allowing them to store null. Normaly we won't be able to store null in those type of values. but with nullable we can store null value.
 - Basicly nullable types are reference(pointer) to somewhere in the memory. it may or may not contain value there.
+- Nullable types are used for storing not mandatory information. 
+
+# Variables
+- Variable is container of information. Variables characterized by 
+1. name (identifier) -> e.g. age
+2. type (information type) -> e.g. int
+3. value (stored information) -> e.g. 25
+- Variable is named area of memory. Variables can be stored in stack or dynamic memory.
+- Primitive Data types (bool, char) are called value types because they are stored directly in program stack
+- Reference data types (arrays, objects, strings) are addresses pointing to dynamic memory location where their value is stored. They can be dynamically allocated or released. Size is not fixed.
+
+## Naming Variables
+- Variable names can't start with digits.
+- Can't be same as keywords from C#
+- Variable Declariton Syntax : <datatype> <identifier> [ = <initialization>];
+
+#### Recommendations for Naming Variables
+- Descriptive, Self-explanatory
+- Only use Latin Characters
+- Using _ in variable names in considered bad style (Good example : firstName)
+- Names should be neitehr too-long or too-short
+- C# is case sensitive. so carefull when naming. (age, Age refer to 2 different variable.)
+- Try avoid using digits in naming variables as much as you can.
+- Bad naming makes code Readability hard.
 
