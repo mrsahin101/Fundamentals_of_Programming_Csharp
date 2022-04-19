@@ -80,3 +80,9 @@ These are built-in (primitives) data types in C#. They are embedded in C# lowest
 - Try avoid using digits in naming variables as much as you can.
 - Bad naming makes code Readability hard.
 
+## Values And References Types 
+- Value Types are stored in program execution stack and directly contains their values. The memory for them allocated in stack for their execution. Once their execution is done stack frame is destroyed and memory is released.
+- Reference Types keep a reference(address) in the program execution stack, and it reference to dynamic memory(heap) where their value is stored. The reference is pointer. Pointer can be null.
+- Reference types allocate dynamic memory for their creation. They also release memory when no longer needed. Memory cleaner (garbage collecter) manages that release and memory cleaning job.
+- Reference types are allocated and released during execution. It's hard to know their exact size before hand.
+- Reference types are all classes, arrays, interfaces, objects, strings, bytes[], etc 
