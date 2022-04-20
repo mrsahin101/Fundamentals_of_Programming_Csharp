@@ -86,3 +86,10 @@ These are built-in (primitives) data types in C#. They are embedded in C# lowest
 - Reference types allocate dynamic memory for their creation. They also release memory when no longer needed. Memory cleaner (garbage collecter) manages that release and memory cleaning job.
 - Reference types are allocated and released during execution. It's hard to know their exact size before hand.
 - Reference types are all classes, arrays, interfaces, objects, strings, bytes[], etc 
+
+## Literals
+- Basicly they are constants in C
+- For int types 0x prefix means that the value is hexdecimal, l or L means that value is long type, and u or U prefix means that unsigned data type.
+- For Real Literals: f or F as suffixes mean float type, d or D mean double type, m or M means decimal type, e is exponent means that lets say e-5 is equal to 10 to power of -5. Also called scientific notatioc.
+- For Character Literals : Escaping squences, a character, or character code(also knowns as unicode -> '\u0065' for example for 'A');
+- For String Literals : String precedded with @ means quoted string(verbatim string). It tells to compiler to take literally take what ever is in the string and thread it as string. Even if there is stuff like escape squence in string still take it literally.

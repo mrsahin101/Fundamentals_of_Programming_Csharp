@@ -8,3 +8,8 @@
 - inability : yetersizlik, acizlik, olasılıksızlık;
 - punctuation : noktalama, noktalama işaretleri, sözünü kesme;
 - wrappers : sarmalayıcılar,kapsayıcılar;
+- suffixes : son ekler, sonuna eklemek;
+- prefixes : ön ekler;
+- apostrophes : kesme işareti, apostrof;
+- preceded : önceden gelmek, önce olmak;
+- verbatim : kelimesi kelimesine, harfi harifne;
