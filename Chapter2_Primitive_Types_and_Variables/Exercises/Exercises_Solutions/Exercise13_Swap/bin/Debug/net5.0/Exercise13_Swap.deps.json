@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercise13_Swap/1.0.0": {
+        "runtime": {
+          "Exercise13_Swap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise13_Swap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

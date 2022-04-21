@@ -13,3 +13,4 @@
 - apostrophes : kesme işareti, apostrof;
 - preceded : önceden gelmek, önce olmak;
 - verbatim : kelimesi kelimesine, harfi harifne;
+- isosceles : ikizkenar;
