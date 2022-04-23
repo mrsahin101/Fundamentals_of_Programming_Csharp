@@ -10,4 +10,4 @@
 5. Binary Operators : Used to perform operations on binary representation of numerical data.
 6. Type conversion Operators : Allow conversion of one data type to another.
 
-![Primitive Data Types in C#](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter3_Operators_Expressions/Operatos.png)
+![Operator Categories in C#](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter3_Operators_Expressions/Operators.png)
