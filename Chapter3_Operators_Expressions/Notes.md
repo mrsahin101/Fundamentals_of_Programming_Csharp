@@ -27,7 +27,10 @@
 
 ### Arithmetical Operators 
 - The arithmetical operators in C# "+", "-", "*", are same like ones in math. They perform operations on numerical values and give result in numerical values.
-- Division operator has different on integer and real numbers. when we divide integer by integer (like int, sbyte, long) the returned value is integer.(no rouding, fractional part is cut). For example 7/3 = 2; This is known as integer division. Integer division by 0 is not allowed and causes run-time exception ** DivideByZeroException ** . The remainder of integer division can be obtained by % (modulo operator). For example : 7/3 = 1 or -10/2 = 0; 
-- When dividing two real numbers or two numbers which one is real number ** Real division ** is done. And result is real number with whole and fractional part. For example 5.0 / 2 = 2.5;
-In division of real numbers it is ** allowed to divide by 0 ** and respectively the result is + ∞(positive infinity )and -∞(negative infinity) or NaN(invalid value).
-- The operator for increasing by one(increment) ** ++ ** increase one unit value of variable by one and respectively the operator ** -- ** (decrement) substratcs one unit  value of variable. When this operators used as ** prefix(when placed immediately before variable) **  the new value calculated first then value returned. When used as ** post-fix(when placed immediately after variable) ** original value returned first then increment or decrement performed.
+
+- Division operator has different on integer and real numbers. when we divide integer by integer (like int, sbyte, long) the returned value is integer.(no rouding, fractional part is cut). For example 7/3 = 2; This is known as integer division. Integer division by 0 is not allowed and causes run-time exception **DivideByZeroException** . The remainder of integer division can be obtained by % (modulo operator). For example : 7/3 = 1 or -10/2 = 0; 
+
+- When dividing two real numbers or two numbers which one is real number **Real division** is done. And result is real number with whole and fractional part. For example 5.0 / 2 = 2.5;
+In division of real numbers it is **allowed to divide by 0** and respectively the result is + ∞(positive infinity )and -∞(negative infinity) or NaN(invalid value).
+
+- The operator for increasing by one(increment) **++** increase one unit value of variable by one and respectively the operator **--** (decrement) substratcs one unit  value of variable. When this operators used as **prefix(when placed immediately before variable)**  the new value calculated first then value returned. When used as **post-fix(when placed immediately after variable)** original value returned first then increment or decrement performed.
