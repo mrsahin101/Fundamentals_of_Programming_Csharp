@@ -57,3 +57,14 @@ In division of real numbers it is **allowed to divide by 0** and respectively th
 
 - Also there are 2 more bitwise operators : **Bit-Shift to Right(>>), Bit-Shift to Left(<<)**
 - They are used of numerical values. For example : 3 << 2 means shift to left 2 digit. So 3 in binary is (0000 0011). When we shift 2 digit it becomes (0000 1100) and thats equivalent to 6
+
+
+### Comparison Operators
+- Comparison operators are : **greater than(>), less than(<), greater than or equal to(>=), less than or equal to(<=), equality(==), difference(!=)**
+- All comparison operators are binary(takes 2 operands) and return boolen. Either true or false.
+
+
+### Assignment Operators
+- Operator for assignment is **"="**. Syntax is : operand1 = literal, expression or operand2;
+- The assignment operator is **"="** while comparison operator is **"=="**. The exchange of operation is common mistake in C#. Be carefull about that.
+- Compound Assignment operators are pretty much same but express what we doing succintly. Syntax is : **operand1 operator = operand2;** This is also equals to **operand1 = operand1 operator operand2**

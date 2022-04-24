@@ -7,3 +7,5 @@
 - precedence : öncelik, üstünlük, öncelik sırası;
 - analogue : analog, benzer, benzer şey;
 - occurrence : olay, oluş, çıkma; 
+- cascade : kademeli, çağlayan, kademeli dizi;
+- consecutively : art arda, birbirini izleyerek;
