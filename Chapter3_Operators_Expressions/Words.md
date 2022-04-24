@@ -9,3 +9,10 @@
 - occurrence : olay, oluş, çıkma; 
 - cascade : kademeli, çağlayan, kademeli dizi;
 - consecutively : art arda, birbirini izleyerek;
+- inheritor : mirasçı, varis;
+- derive : türetmek, çıkartmak, sağlamak;
+- inappropriate : uygunsuz, uygun olmayan, yersiz;
+- explicit : açık, belirgin, belli, aşikar;
+- implicit : örtük, üstü kapalı, kesin, tam;
+- obligatory : zorunlu, mecburi, gerekli;
+- appropriation : ödenek, tahsisat, benimseme, el koyma;

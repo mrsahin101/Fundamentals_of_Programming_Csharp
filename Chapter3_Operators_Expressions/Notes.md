@@ -96,3 +96,10 @@ In division of real numbers it is **allowed to divide by 0** and respectively th
 #### Operator "is"
 - The "is" operator is used to check whether object is compatible with given type. Basicly **checking object type**
 
+
+#### Operator "??"
+- This operator is similiar to conditional operator **?:**. The difference is that it is placed between two operands and returns the left operand only if it is value not null, otherwise it returns the right operand.
+
+### Type Conversion and Casting
+- When we want to do operation
+
