@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example3_Logical_Operators"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example4_Concatenation", "Example4_Concatenation\Example4_Concatenation.csproj", "{15779A61-81FC-4216-9316-8D86C5FFD2AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example5_Bitwise", "Example5_Bitwise\Example5_Bitwise.csproj", "{CC5205E7-223F-4295-BD7B-2EDCFB17B4DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{15779A61-81FC-4216-9316-8D86C5FFD2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15779A61-81FC-4216-9316-8D86C5FFD2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15779A61-81FC-4216-9316-8D86C5FFD2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5205E7-223F-4295-BD7B-2EDCFB17B4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5205E7-223F-4295-BD7B-2EDCFB17B4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5205E7-223F-4295-BD7B-2EDCFB17B4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5205E7-223F-4295-BD7B-2EDCFB17B4DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

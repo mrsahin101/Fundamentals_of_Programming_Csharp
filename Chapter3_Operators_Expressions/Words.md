@@ -5,3 +5,5 @@
 - ternary : üçlü, üçerli, üç parçalı;
 - associative : ilişkisel;
 - precedence : öncelik, üstünlük, öncelik sırası;
+- analogue : analog, benzer, benzer şey;
+- occurrence : olay, oluş, çıkma; 

@@ -54,3 +54,6 @@ In division of real numbers it is **allowed to divide by 0** and respectively th
 - Bitwise operators are : **&(AND), |(OR), ^(Exclusive OR), ~(negation)** 
 
 ![Bitwise Operators in C#](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter3_Operators_Expressions/Bitwise_Operators.png) 
+
+- Also there are 2 more bitwise operators : **Bit-Shift to Right(>>), Bit-Shift to Left(<<)**
+- They are used of numerical values. For example : 3 << 2 means shift to left 2 digit. So 3 in binary is (0000 0011). When we shift 2 digit it becomes (0000 1100) and thats equivalent to 6
