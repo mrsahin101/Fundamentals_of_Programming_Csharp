@@ -34,3 +34,23 @@
 In division of real numbers it is **allowed to divide by 0** and respectively the result is + ∞(positive infinity )and -∞(negative infinity) or NaN(invalid value).
 
 - The operator for increasing by one(increment) **++** increase one unit value of variable by one and respectively the operator **--** (decrement) substratcs one unit  value of variable. When this operators used as **prefix(when placed immediately before variable)**  the new value calculated first then value returned. When used as **post-fix(when placed immediately after variable)** original value returned first then increment or decrement performed.
+
+### Logical Operators 
+- Logical operators takes boolean values and return boolean results.(true or false) 
+- Logical operators are **|| (OR), &&(AND), ^(Exclusive OR), !(logical negation)**.
+- Laws of De Morgan applied when it comes to logical operators.
+- De morgan Laws : 
+1. !(a && b) = (!a || !b);
+2. !(a || b) = (!a && !b);
+
+![Logical Operators in C#](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter3_Operators_Expressions/Logical_Operators.png)
+
+### Operators for Concatenation of Strings
+- The operator + concatenation(joins) strings together. If at least one of operands is string, .NET run-time will convert if there are other operands which none string to string. But it is good practice to typecast each operands to have full control on our program flow.
+- Concatenation(joining, gluing) is slow operation and carefully should be used. It shouldn't be used for iterative tasks. Rather we should use StringBuilder class for iterative(repetitive) operations.
+
+### Bitwise Operators
+- Bitwise operators acts on binary representation of numerical types. In fact we store all information in binary format in computers.
+- Bitwise operators are : **&(AND), |(OR), ^(Exclusive OR), ~(negation)** 
+
+![Bitwise Operators in C#](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter3_Operators_Expressions/Bitwise_Operators.png) 

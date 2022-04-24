@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1_Operators", "Example1_Operators\Example1_Operators.csproj", "{DB5BA073-2319-400C-AC71-99166FCFA2FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example1_Operators", "Example1_Operators\Example1_Operators.csproj", "{DB5BA073-2319-400C-AC71-99166FCFA2FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2_Arithmetical_Operators", "Example2_Arithmetical_Operators\Example2_Arithmetical_Operators.csproj", "{9FACF524-8684-458D-A3C6-708678267D4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example2_Arithmetical_Operators", "Example2_Arithmetical_Operators\Example2_Arithmetical_Operators.csproj", "{9FACF524-8684-458D-A3C6-708678267D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example3_Logical_Operators", "Example3_Logical_Operators\Example3_Logical_Operators.csproj", "{FA6B1B6E-7E7B-443A-8965-6FEFE29D5C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example4_Concatenation", "Example4_Concatenation\Example4_Concatenation.csproj", "{15779A61-81FC-4216-9316-8D86C5FFD2AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{9FACF524-8684-458D-A3C6-708678267D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FACF524-8684-458D-A3C6-708678267D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FACF524-8684-458D-A3C6-708678267D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6B1B6E-7E7B-443A-8965-6FEFE29D5C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6B1B6E-7E7B-443A-8965-6FEFE29D5C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6B1B6E-7E7B-443A-8965-6FEFE29D5C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6B1B6E-7E7B-443A-8965-6FEFE29D5C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15779A61-81FC-4216-9316-8D86C5FFD2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15779A61-81FC-4216-9316-8D86C5FFD2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15779A61-81FC-4216-9316-8D86C5FFD2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15779A61-81FC-4216-9316-8D86C5FFD2AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
