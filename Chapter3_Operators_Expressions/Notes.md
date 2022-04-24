@@ -65,6 +65,34 @@ In division of real numbers it is **allowed to divide by 0** and respectively th
 
 
 ### Assignment Operators
-- Operator for assignment is **"="**. Syntax is : operand1 = literal, expression or operand2;
-- The assignment operator is **"="** while comparison operator is **"=="**. The exchange of operation is common mistake in C#. Be carefull about that.
+- Operator for assignment is **=**. Syntax is : operand1 = literal, expression or operand2;
+- The assignment operator is **=** while comparison operator is **==**. The exchange of operation is common mistake in C#. Be carefull about that.
 - Compound Assignment operators are pretty much same but express what we doing succintly. Syntax is : **operand1 operator = operand2;** This is also equals to **operand1 = operand1 operator operand2**
+
+### Conditional Operator 
+- Conditional operator(?:) uses boolean value of expression to determine which of two expression must be calculated and returned. It's called ternary operator. Because it works on 3 operands. Syntax : **operand1 ? operand2 : operand3** This means : if operand1 is true return as result operand2. Otherwise(if operand1 is false) return as result operand3.
+- Operand1 always has to be boolean. Operand2 and operand3 has to be same type. 
+
+### Other Operators
+
+##### The "." Operator
+- The access operator "." (dot) is used to access member fields or methods of class object.
+
+#### Square Brackets [] Operator
+- Square brackets [] are used for accessing elements of arrays by index. They are so called indexer.
+
+#### Brackets Operator
+- Brackets () are used to override the priority of the execution of expressions and operators.
+
+#### Type Conversion Operator
+- Type conversion operator **(type)** is used to convert a variable to another type.
+
+#### Operator "as"
+- The operator **as** used for type conversion but if invalid conversions returns null instead of exception.
+
+#### Operator "new"
+- The new operator is used to **create and initialize new objects**.
+
+#### Operator "is"
+- The "is" operator is used to check whether object is compatible with given type. Basicly **checking object type**
+
