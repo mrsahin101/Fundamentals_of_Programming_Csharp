@@ -116,5 +116,5 @@ In division of real numbers it is **allowed to divide by 0** and respectively th
 #### Implicit Conversion
 - Implicit(hidden) type convesrion is possible only when there is no risk of losing data during conversion. To make implicit conversion don't have to use any operator. Conversion done automatically by compiler.
 
-![Possible Implicit Conversions in C#](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter3_Operators_Expressions/Implicit_Conversion.png) 
+![Possible Implicit Conversions in C#](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter3_Operators_Expressions/Implicit_Conversions.png) 
 
