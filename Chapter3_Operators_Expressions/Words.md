@@ -16,3 +16,4 @@
 - implicit : örtük, üstü kapalı, kesin, tam;
 - obligatory : zorunlu, mecburi, gerekli;
 - appropriation : ödenek, tahsisat, benimseme, el koyma;
+- treat : davranmak, tedavi etmek, ısmarlamak, ikram etmek;

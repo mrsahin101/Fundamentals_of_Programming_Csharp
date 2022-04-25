@@ -101,5 +101,20 @@ In division of real numbers it is **allowed to divide by 0** and respectively th
 - This operator is similiar to conditional operator **?:**. The difference is that it is placed between two operands and returns the left operand only if it is value not null, otherwise it returns the right operand.
 
 ### Type Conversion and Casting
-- When we want to do operation
+- When we want to do operation in C# we need to make sure all arguments are same data type. To do this we perform **type conversion(type casting)**. This can be explicit or implicit.
+- If we try to perform or assign wrong data type to another we get compilation error. But sometimes when types are similiar to each other we might get away with it and in this case program performs **hidden type conversion**.
+- Specific conversion of lets say Type A to Type B allows expression Type A to be treated as expression of Type B during the execution.
+- Lets say if we have object type and we wanna convert it to string. In this case we have to do verification during run-time to make sure the value is really instance of string.
+- But when it comes to string type to casted as object type verification is not required. Because string type is inheritor of object type. Basicly string type will be converted to object type without a risk of error or losing data.
+- Conversion from Int to Long type can be made without verification needed. Because int type is subset of Long type
+- Conversion from double to long requires verification. Depending on value data lose might happen. So because of this we have to do conversion explicitly.
+- In C# not all types can be converted to others. We can group some of possible conversions under this 3 categories.
+1. Implicit Conversion.
+2. Explicit Conversion.
+3. Conversion to or from **string**
+
+#### Implicit Conversion
+- Implicit(hidden) type convesrion is possible only when there is no risk of losing data during conversion. To make implicit conversion don't have to use any operator. Conversion done automatically by compiler.
+
+![Possible Implicit Conversions in C#](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter3_Operators_Expressions/Implicit_Conversion.png) 
 
