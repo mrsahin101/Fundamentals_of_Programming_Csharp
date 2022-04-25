@@ -17,3 +17,4 @@
 - obligatory : zorunlu, mecburi, gerekli;
 - appropriation : ödenek, tahsisat, benimseme, el koyma;
 - treat : davranmak, tedavi etmek, ısmarlamak, ikram etmek;
+- sufficient : yeterli, kafi, yeter, elverişli;

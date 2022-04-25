@@ -113,8 +113,11 @@ In division of real numbers it is **allowed to divide by 0** and respectively th
 2. Explicit Conversion.
 3. Conversion to or from **string**
 
-#### Implicit Conversion
+#### Implicit Type Conversion
 - Implicit(hidden) type convesrion is possible only when there is no risk of losing data during conversion. To make implicit conversion don't have to use any operator. Conversion done automatically by compiler.
 
 ![Possible Implicit Conversions in C#](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter3_Operators_Expressions/Implicit_Conversions.png) 
 
+#### Explicit Type Conversion
+- Explicit type conversion is used whenever there is possibility of data lose during conversion.In this case (e.g. double to long conversion) **explicit conversion** is necessary.
+- This happens because the myDouble variable value is bigger than int range so it gets minimum value of integer. It's not always possible to predict what value of a variable will be after scope overflow! Therefore use sufficent large types and be careful to switching smaller types.
