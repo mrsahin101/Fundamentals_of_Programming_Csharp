@@ -121,3 +121,18 @@ In division of real numbers it is **allowed to divide by 0** and respectively th
 #### Explicit Type Conversion
 - Explicit type conversion is used whenever there is possibility of data lose during conversion.In this case (e.g. double to long conversion) **explicit conversion** is necessary.
 - This happens because the myDouble variable value is bigger than int range so it gets minimum value of integer. It's not always possible to predict what value of a variable will be after scope overflow! Therefore use sufficent large types and be careful to switching smaller types.
+
+
+#### Data Loss During Type Conversion
+- When we doing type convesrion data might get lost. Have to be carefull.
+- When we doing implicit type conversion, it's still good practice to use type conversion keyword intentionally to make code more readable and reducing chance of errors.
+- checked keyword can be used during conversion to detect overflow. e.g : int i = checked((int)d);
+- Note that conversion form or to string is not possible through typecasting.
+
+
+### Conversion to String
+- If necessary we can convert any value to string. Including null. Conversion done automatically whether you are using concatenation operator (+) or calling ToString() method.
+
+### Expressions 
+- When dealing with expressions dividing by zero is important. if its integer divided by zero it will cause error in run-time. But if its some floating number then its either 0, NaN or infinity.
+- When working with expressions it is always good practice to use brackets to make code more readable

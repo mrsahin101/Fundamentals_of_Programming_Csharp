@@ -18,3 +18,5 @@
 - appropriation : ödenek, tahsisat, benimseme, el koyma;
 - treat : davranmak, tedavi etmek, ısmarlamak, ikram etmek;
 - sufficient : yeterli, kafi, yeter, elverişli;
+- itentional : kasıtlı, kasti, maksatlı, bile bile, mahsus;
+- convenient : uygun, elverişli, kullanışlı, pratik;
