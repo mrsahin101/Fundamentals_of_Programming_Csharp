@@ -1,0 +1,16 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\bin\Debug\net5.0\Exercise7_Moon.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\bin\Debug\net5.0\Exercise7_Moon.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\bin\Debug\net5.0\Exercise7_Moon.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\bin\Debug\net5.0\Exercise7_Moon.runtimeconfig.dev.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\bin\Debug\net5.0\Exercise7_Moon.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\bin\Debug\net5.0\Exercise7_Moon.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\obj\Debug\net5.0\Exercise7_Moon.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\obj\Debug\net5.0\Exercise7_Moon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\obj\Debug\net5.0\Exercise7_Moon.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\obj\Debug\net5.0\Exercise7_Moon.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\obj\Debug\net5.0\Exercise7_Moon.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\obj\Debug\net5.0\Exercise7_Moon.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\obj\Debug\net5.0\refint\Exercise7_Moon.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\obj\Debug\net5.0\Exercise7_Moon.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\obj\Debug\net5.0\Exercise7_Moon.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise7_Moon\obj\Debug\net5.0\ref\Exercise7_Moon.dll
