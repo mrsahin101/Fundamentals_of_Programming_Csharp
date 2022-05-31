@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercise11_Find_the_Bit/1.0.0": {
+        "runtime": {
+          "Exercise11_Find_the_Bit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise11_Find_the_Bit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
