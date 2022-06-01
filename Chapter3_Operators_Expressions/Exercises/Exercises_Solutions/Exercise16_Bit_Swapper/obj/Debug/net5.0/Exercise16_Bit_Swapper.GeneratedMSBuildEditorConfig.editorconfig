@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Exercise16_Bit_Swapper
+build_property.ProjectDir = C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter3_Operators_Expressions\Exercises\Exercises_Solutions\Exercise16_Bit_Swapper\
