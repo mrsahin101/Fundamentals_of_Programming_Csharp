@@ -6,3 +6,4 @@
     CLI : Command Line interface, is console for commands(such as cmd.exe in Windows and bash in Linux)\
     GUI : Graphical User Interface, is graphical work environment (such as Windows Explorer)
 
+![Some Command Line Commands on Windows](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter4_Console_Input_Output/Images/CommandLine_commands.png)
