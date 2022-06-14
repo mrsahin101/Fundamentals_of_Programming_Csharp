@@ -1,0 +1,16 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\bin\Debug\net5.0\001_HelloWorld.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\bin\Debug\net5.0\001_HelloWorld.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\bin\Debug\net5.0\001_HelloWorld.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\bin\Debug\net5.0\001_HelloWorld.runtimeconfig.dev.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\bin\Debug\net5.0\001_HelloWorld.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\bin\Debug\net5.0\001_HelloWorld.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\obj\Debug\net5.0\refint\001_HelloWorld.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\001_HelloWorld\obj\Debug\net5.0\ref\001_HelloWorld.dll

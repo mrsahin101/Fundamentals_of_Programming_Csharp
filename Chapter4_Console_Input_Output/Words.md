@@ -5,3 +5,10 @@
 - elegant : zarif, şık, hoş, kibar; 
 - shell : kabuk, kovan, deniz kabuğu;
 - associated : birleşmiş;
+- illustrates : göstermek, tanımlamak, örneklerle açıklamak;
+- convenience : kolaylık, uygunluk;
+- thus : böylece, bu nedenle, böyle, nitekim;
+- presence : mevcudiyet, varlık, hazır bulunma;
+- importance : önem, ehemmiyet, itibar;
+- unpleasant : hoş olmayan, tatsız, nahoş;
+- elaborate : detaylandırmak, ayrıntılı, özenli, dikkatle hazırlanmış;
