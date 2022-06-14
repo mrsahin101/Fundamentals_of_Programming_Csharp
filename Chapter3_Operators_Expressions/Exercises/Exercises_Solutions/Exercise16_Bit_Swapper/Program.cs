@@ -28,7 +28,7 @@ namespace Exercise16_Bit_Swapper
                     {
                         for(int i = 0; i < arraySize; i++)
                         {
-                            Console.Write("Enter " + i + "th value for q: ");
+                            Console.Write("Enter " + i + "th value for p: ");
                             pArraystr = (Console.ReadLine());
                             if (UInt32.TryParse(pArraystr, out pArray[i]) == false)
                             {
