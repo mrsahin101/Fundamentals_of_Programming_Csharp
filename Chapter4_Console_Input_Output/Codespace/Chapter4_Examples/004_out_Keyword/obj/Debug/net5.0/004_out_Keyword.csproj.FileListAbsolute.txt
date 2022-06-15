@@ -1,0 +1,16 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\bin\Debug\net5.0\004_out_Keyword.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\bin\Debug\net5.0\004_out_Keyword.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\bin\Debug\net5.0\004_out_Keyword.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\bin\Debug\net5.0\004_out_Keyword.runtimeconfig.dev.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\bin\Debug\net5.0\004_out_Keyword.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\bin\Debug\net5.0\004_out_Keyword.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\obj\Debug\net5.0\004_out_Keyword.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\obj\Debug\net5.0\004_out_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\obj\Debug\net5.0\004_out_Keyword.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\obj\Debug\net5.0\004_out_Keyword.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\obj\Debug\net5.0\004_out_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\obj\Debug\net5.0\004_out_Keyword.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\obj\Debug\net5.0\refint\004_out_Keyword.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\obj\Debug\net5.0\004_out_Keyword.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\obj\Debug\net5.0\004_out_Keyword.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\004_out_Keyword\obj\Debug\net5.0\ref\004_out_Keyword.dll

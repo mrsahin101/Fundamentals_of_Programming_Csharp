@@ -24,3 +24,25 @@
 - When you concatenate strings and also sum numbers, use parentheses to specify correct order of operations. Otherwise they are executed from left to right!
 - New line on Windiws : \r\n New line on Unix-based Operating Systems : \n
 - This doesn't matter writing on console. The console will understand we meant \r\n. But if we trying to write to file we should use \r\n.(For Windows OS)
+- Composite Formatting strings can be so usefull. General Syntax for it : {index[,alignment][:format string] }
+- Composite formatting basicly using 2 things. 
+1. Composite formatting string
+2. Series of arguments.
+
+
+- The index component indicates the position of component.
+
+- When formatting item refer to argument does not exist, an exception is thrown.
+
+- The alignment component is optional and it indicates the string alignment.
+Example : Console.WriteLine("{0,6}",123);
+Console Output :   123;
+
+- formatString component specifies formatting of the string. There are 3 types of it.
+1. for numerical types of arguments
+2. for arguments of type date (DateTime)
+3. for arguments of type enumeration (listed types)
+
+### Standart Formats for Numbers 
+
+![Some Command Line Commands on Windows](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter4_Console_Input_Output/Images/StandartFormats_forNumbers.png)
