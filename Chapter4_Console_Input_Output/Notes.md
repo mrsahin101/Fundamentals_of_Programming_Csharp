@@ -43,6 +43,18 @@ Console Output :   123;
 2. for arguments of type date (DateTime)
 3. for arguments of type enumeration (listed types)
 
+MSDN Documentation about formats : https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types
+
 ### Standart Formats for Numbers 
 
 ![Some Command Line Commands on Windows](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter4_Console_Input_Output/Images/StandartFormats_forNumbers.png)
+
+- Part of formatting is determined by **the current "culture" settings** which taken by default ffrom your regional settings of Operating system.
+
+
+### Custom Formats for Numbers 
+- With custom formats we can build our custom representation of data. These ares building blocks for custom formats.
+
+![Some Command Line Commands on Windows](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter4_Console_Input_Output/Images/CustomFormats_forNumbers.png)
+
+- These are just examples. More details can be found on MSDN documentation.

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Alignment_Component", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Standart_Numeric_Formats", "006_Standart_Numeric_Formats\006_Standart_Numeric_Formats.csproj", "{9AD60CCD-CF31-43FF-9895-5367E4664525}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Custom_Numeric_Formats", "007_Custom_Numeric_Formats\007_Custom_Numeric_Formats.csproj", "{4AABCB1C-7E4E-41BC-B563-070637CA0EF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9AD60CCD-CF31-43FF-9895-5367E4664525}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AD60CCD-CF31-43FF-9895-5367E4664525}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AD60CCD-CF31-43FF-9895-5367E4664525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AABCB1C-7E4E-41BC-B563-070637CA0EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AABCB1C-7E4E-41BC-B563-070637CA0EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AABCB1C-7E4E-41BC-B563-070637CA0EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AABCB1C-7E4E-41BC-B563-070637CA0EF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
