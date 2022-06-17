@@ -1,0 +1,16 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\bin\Debug\net5.0\012_Read.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\bin\Debug\net5.0\012_Read.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\bin\Debug\net5.0\012_Read.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\bin\Debug\net5.0\012_Read.runtimeconfig.dev.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\bin\Debug\net5.0\012_Read.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\bin\Debug\net5.0\012_Read.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\obj\Debug\net5.0\012_Read.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\obj\Debug\net5.0\012_Read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\obj\Debug\net5.0\012_Read.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\obj\Debug\net5.0\012_Read.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\obj\Debug\net5.0\012_Read.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\obj\Debug\net5.0\012_Read.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\obj\Debug\net5.0\refint\012_Read.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\obj\Debug\net5.0\012_Read.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\obj\Debug\net5.0\012_Read.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\012_Read\obj\Debug\net5.0\ref\012_Read.dll

@@ -78,3 +78,8 @@ MSDN Documentation about formats : https://docs.microsoft.com/en-us/dotnet/stand
 - .NET framework culture settings can manually be changed via System.Globalization.CultureInfo
 
 # CONSOLE INPUT 
+- The object that controls the input stream in C#, is Console.In; But this is rarely used directly. Usually Console.ReadLine used.
+
+- .Read() method is acting little different than .ReadLine() method. Read method reads only fist character and returns its unicode value. If we want to use it we should use Convert.ToChar().
+
+- When we read numbers we get them as string then we parse them. But when parsing them should be carefull to not let get exception. Because if you try to parse string which doesnt correspond to number it will throw exception at you. So we use .TryParse() instead of .Parse()

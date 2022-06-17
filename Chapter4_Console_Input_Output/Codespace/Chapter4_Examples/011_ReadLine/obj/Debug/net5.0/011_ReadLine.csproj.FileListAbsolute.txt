@@ -1,0 +1,16 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\bin\Debug\net5.0\011_ReadLine.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\bin\Debug\net5.0\011_ReadLine.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\bin\Debug\net5.0\011_ReadLine.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\bin\Debug\net5.0\011_ReadLine.runtimeconfig.dev.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\bin\Debug\net5.0\011_ReadLine.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\bin\Debug\net5.0\011_ReadLine.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\obj\Debug\net5.0\011_ReadLine.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\obj\Debug\net5.0\011_ReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\obj\Debug\net5.0\011_ReadLine.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\obj\Debug\net5.0\011_ReadLine.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\obj\Debug\net5.0\011_ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\obj\Debug\net5.0\011_ReadLine.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\obj\Debug\net5.0\refint\011_ReadLine.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\obj\Debug\net5.0\011_ReadLine.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\obj\Debug\net5.0\011_ReadLine.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\011_ReadLine\obj\Debug\net5.0\ref\011_ReadLine.dll

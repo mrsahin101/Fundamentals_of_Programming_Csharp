@@ -1,0 +1,16 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\bin\Debug\net5.0\014_TryParse.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\bin\Debug\net5.0\014_TryParse.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\bin\Debug\net5.0\014_TryParse.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\bin\Debug\net5.0\014_TryParse.runtimeconfig.dev.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\bin\Debug\net5.0\014_TryParse.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\bin\Debug\net5.0\014_TryParse.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\obj\Debug\net5.0\014_TryParse.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\obj\Debug\net5.0\014_TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\obj\Debug\net5.0\014_TryParse.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\obj\Debug\net5.0\014_TryParse.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\obj\Debug\net5.0\014_TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\obj\Debug\net5.0\014_TryParse.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\obj\Debug\net5.0\refint\014_TryParse.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\obj\Debug\net5.0\014_TryParse.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\obj\Debug\net5.0\014_TryParse.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter4_Console_Input_Output\Codespace\Chapter4_Examples\014_TryParse\obj\Debug\net5.0\ref\014_TryParse.dll
