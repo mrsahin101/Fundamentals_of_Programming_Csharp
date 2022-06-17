@@ -58,3 +58,23 @@ MSDN Documentation about formats : https://docs.microsoft.com/en-us/dotnet/stand
 ![Some Command Line Commands on Windows](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter4_Console_Input_Output/Images/CustomFormats_forNumbers.png)
 
 - These are just examples. More details can be found on MSDN documentation.
+
+### Standart Defined Date Formats
+
+![Some Command Line Commands on Windows](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter4_Console_Input_Output/Images/StandartFormatsForDates.png)
+
+### Custom Formats for Dates
+
+![Some Command Line Commands on Windows](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter4_Console_Input_Output/Images/CustomFormatsForDates.png)
+
+- When using the specifiers we can insert different separators between different parts of date, such as ".", "/".
+
+### Format String Enumeration Components
+
+![Some Command Line Commands on Windows](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/blob/main/Chapter4_Console_Input_Output/Images/FormatStringsEnumerationComponents.png)
+
+- When using format strings it is possible one and same program to print different values depending on the **localization settings** for the operating system.
+- When launching console application its automatically retrives the operating system localization (culture settings ) and uses it for reading and writing formatted data.
+- .NET framework culture settings can manually be changed via System.Globalization.CultureInfo
+
+# CONSOLE INPUT 

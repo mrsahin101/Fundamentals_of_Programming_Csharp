@@ -12,3 +12,4 @@
 - importance : önem, ehemmiyet, itibar;
 - unpleasant : hoş olmayan, tatsız, nahoş;
 - elaborate : detaylandırmak, ayrıntılı, özenli, dikkatle hazırlanmış;
+

@@ -9,15 +9,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_String_Concatenation", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_PlaceHolders", "003_PlaceHolders\003_PlaceHolders.csproj", "{8AE75117-E884-44D8-8E87-D7CCC73AFB8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_out_Keyword", "004_out_Keyword\004_out_Keyword.csproj", "{3F7088E0-9748-4BB3-8D0E-36892EEA1A78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_out_Keyword", "004_out_Keyword\004_out_Keyword.csproj", "{3F7088E0-9748-4BB3-8D0E-36892EEA1A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Index_Component", "004_Index_Component\004_Index_Component.csproj", "{A91212EA-9F35-420D-AAE7-5E6E2FEA1DFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Index_Component", "004_Index_Component\004_Index_Component.csproj", "{A91212EA-9F35-420D-AAE7-5E6E2FEA1DFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Alignment_Component", "005_Alignment_Component\005_Alignment_Component.csproj", "{DC13B665-A492-4281-99D2-08B2A6B8EC98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Alignment_Component", "005_Alignment_Component\005_Alignment_Component.csproj", "{DC13B665-A492-4281-99D2-08B2A6B8EC98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Standart_Numeric_Formats", "006_Standart_Numeric_Formats\006_Standart_Numeric_Formats.csproj", "{9AD60CCD-CF31-43FF-9895-5367E4664525}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Standart_Numeric_Formats", "006_Standart_Numeric_Formats\006_Standart_Numeric_Formats.csproj", "{9AD60CCD-CF31-43FF-9895-5367E4664525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Custom_Numeric_Formats", "007_Custom_Numeric_Formats\007_Custom_Numeric_Formats.csproj", "{4AABCB1C-7E4E-41BC-B563-070637CA0EF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Custom_Numeric_Formats", "007_Custom_Numeric_Formats\007_Custom_Numeric_Formats.csproj", "{4AABCB1C-7E4E-41BC-B563-070637CA0EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Custom_Date_Formats", "008_Custom_Date_Formats\008_Custom_Date_Formats.csproj", "{B9DF45E3-73BE-46D0-9204-3EA7959864FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_EnumerationComponents", "009_EnumerationComponents\009_EnumerationComponents.csproj", "{2783D2AD-2C5C-4A01-B0F0-22E694A6A261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Culture_Settings", "010_Culture_Settings\010_Culture_Settings.csproj", "{BE07C40C-3580-4407-A4F2-E5B76E6216CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{4AABCB1C-7E4E-41BC-B563-070637CA0EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AABCB1C-7E4E-41BC-B563-070637CA0EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AABCB1C-7E4E-41BC-B563-070637CA0EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DF45E3-73BE-46D0-9204-3EA7959864FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DF45E3-73BE-46D0-9204-3EA7959864FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DF45E3-73BE-46D0-9204-3EA7959864FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DF45E3-73BE-46D0-9204-3EA7959864FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2783D2AD-2C5C-4A01-B0F0-22E694A6A261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2783D2AD-2C5C-4A01-B0F0-22E694A6A261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2783D2AD-2C5C-4A01-B0F0-22E694A6A261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2783D2AD-2C5C-4A01-B0F0-22E694A6A261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE07C40C-3580-4407-A4F2-E5B76E6216CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE07C40C-3580-4407-A4F2-E5B76E6216CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE07C40C-3580-4407-A4F2-E5B76E6216CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE07C40C-3580-4407-A4F2-E5B76E6216CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
