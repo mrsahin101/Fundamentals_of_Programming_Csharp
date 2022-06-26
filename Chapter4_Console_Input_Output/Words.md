@@ -12,4 +12,6 @@
 - importance : önem, ehemmiyet, itibar;
 - unpleasant : hoş olmayan, tatsız, nahoş;
 - elaborate : detaylandırmak, ayrıntılı, özenli, dikkatle hazırlanmış;
-
+- various : çeşitli, birçok, türlü;
+- respective : saygılı, sırasıyla, bir bir;
+- enumeration : numaralandırma, sayım, döküm, sayım listesi;
