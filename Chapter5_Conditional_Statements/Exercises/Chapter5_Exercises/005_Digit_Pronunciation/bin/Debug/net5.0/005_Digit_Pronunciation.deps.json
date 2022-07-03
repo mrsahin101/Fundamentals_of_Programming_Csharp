@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "005_Digit_Pronunciation/1.0.0": {
+        "runtime": {
+          "005_Digit_Pronunciation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "005_Digit_Pronunciation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

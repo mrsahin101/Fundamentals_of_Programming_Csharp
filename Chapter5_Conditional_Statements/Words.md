@@ -6,3 +6,4 @@
 - arranged : düzenlenmiş;
 - ascending : artan, yükselen;
 - advisable : uygun, tavsiye edilebilir, akla uygun;
+- descending : azalan;

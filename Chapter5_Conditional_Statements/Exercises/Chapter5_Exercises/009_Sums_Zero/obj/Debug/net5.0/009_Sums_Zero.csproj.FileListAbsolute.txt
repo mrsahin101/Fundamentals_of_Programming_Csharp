@@ -1,0 +1,16 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\bin\Debug\net5.0\009_Sums_Zero.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\bin\Debug\net5.0\009_Sums_Zero.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\bin\Debug\net5.0\009_Sums_Zero.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\bin\Debug\net5.0\009_Sums_Zero.runtimeconfig.dev.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\bin\Debug\net5.0\009_Sums_Zero.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\bin\Debug\net5.0\009_Sums_Zero.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\obj\Debug\net5.0\009_Sums_Zero.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\obj\Debug\net5.0\009_Sums_Zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\obj\Debug\net5.0\009_Sums_Zero.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\obj\Debug\net5.0\009_Sums_Zero.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\obj\Debug\net5.0\009_Sums_Zero.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\obj\Debug\net5.0\009_Sums_Zero.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\obj\Debug\net5.0\refint\009_Sums_Zero.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\obj\Debug\net5.0\009_Sums_Zero.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\obj\Debug\net5.0\009_Sums_Zero.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Exercises\Chapter5_Exercises\009_Sums_Zero\obj\Debug\net5.0\ref\009_Sums_Zero.dll
