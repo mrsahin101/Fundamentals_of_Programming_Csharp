@@ -1,0 +1,16 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\bin\Debug\net5.0\001_Comparison.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\bin\Debug\net5.0\001_Comparison.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\bin\Debug\net5.0\001_Comparison.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\bin\Debug\net5.0\001_Comparison.runtimeconfig.dev.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\bin\Debug\net5.0\001_Comparison.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\bin\Debug\net5.0\001_Comparison.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\obj\Debug\net5.0\001_Comparison.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\obj\Debug\net5.0\001_Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\obj\Debug\net5.0\001_Comparison.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\obj\Debug\net5.0\001_Comparison.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\obj\Debug\net5.0\001_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\obj\Debug\net5.0\001_Comparison.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\obj\Debug\net5.0\refint\001_Comparison.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\obj\Debug\net5.0\001_Comparison.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\obj\Debug\net5.0\001_Comparison.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter5_Conditional_Statements\Codespace\Chapter5_Examples\001_Comparison\obj\Debug\net5.0\ref\001_Comparison.dll
