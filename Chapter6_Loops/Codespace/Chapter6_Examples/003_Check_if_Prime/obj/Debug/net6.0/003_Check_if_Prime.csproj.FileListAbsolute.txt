@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\bin\Debug\net6.0\003_Check_if_Prime.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\bin\Debug\net6.0\003_Check_if_Prime.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\bin\Debug\net6.0\003_Check_if_Prime.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\bin\Debug\net6.0\003_Check_if_Prime.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\bin\Debug\net6.0\003_Check_if_Prime.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\obj\Debug\net6.0\003_Check_if_Prime.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\obj\Debug\net6.0\003_Check_if_Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\obj\Debug\net6.0\003_Check_if_Prime.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\obj\Debug\net6.0\003_Check_if_Prime.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\obj\Debug\net6.0\003_Check_if_Prime.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\obj\Debug\net6.0\003_Check_if_Prime.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\obj\Debug\net6.0\refint\003_Check_if_Prime.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\obj\Debug\net6.0\003_Check_if_Prime.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\obj\Debug\net6.0\003_Check_if_Prime.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\003_Check_if_Prime\obj\Debug\net6.0\ref\003_Check_if_Prime.dll

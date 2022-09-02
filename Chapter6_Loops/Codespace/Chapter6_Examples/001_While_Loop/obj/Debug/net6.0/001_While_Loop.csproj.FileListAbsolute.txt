@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\bin\Debug\net6.0\001_While_Loop.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\bin\Debug\net6.0\001_While_Loop.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\bin\Debug\net6.0\001_While_Loop.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\bin\Debug\net6.0\001_While_Loop.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\bin\Debug\net6.0\001_While_Loop.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\obj\Debug\net6.0\001_While_Loop.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\obj\Debug\net6.0\001_While_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\obj\Debug\net6.0\001_While_Loop.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\obj\Debug\net6.0\001_While_Loop.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\obj\Debug\net6.0\001_While_Loop.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\obj\Debug\net6.0\001_While_Loop.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\obj\Debug\net6.0\refint\001_While_Loop.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\obj\Debug\net6.0\001_While_Loop.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\obj\Debug\net6.0\001_While_Loop.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\001_While_Loop\obj\Debug\net6.0\ref\001_While_Loop.dll
