@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "002_Printing_not_Divisble_by_Three_Seven/1.0.0": {
+        "runtime": {
+          "002_Printing_not_Divisble_by_Three_Seven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "002_Printing_not_Divisble_by_Three_Seven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

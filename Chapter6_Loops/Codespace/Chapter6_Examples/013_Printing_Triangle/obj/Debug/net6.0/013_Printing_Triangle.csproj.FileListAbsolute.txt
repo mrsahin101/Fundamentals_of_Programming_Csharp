@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\bin\Debug\net6.0\013_Printing_Triangle.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\bin\Debug\net6.0\013_Printing_Triangle.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\bin\Debug\net6.0\013_Printing_Triangle.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\bin\Debug\net6.0\013_Printing_Triangle.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\bin\Debug\net6.0\013_Printing_Triangle.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\obj\Debug\net6.0\013_Printing_Triangle.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\obj\Debug\net6.0\013_Printing_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\obj\Debug\net6.0\013_Printing_Triangle.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\obj\Debug\net6.0\013_Printing_Triangle.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\obj\Debug\net6.0\013_Printing_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\obj\Debug\net6.0\013_Printing_Triangle.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\obj\Debug\net6.0\refint\013_Printing_Triangle.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\obj\Debug\net6.0\013_Printing_Triangle.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\obj\Debug\net6.0\013_Printing_Triangle.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\013_Printing_Triangle\obj\Debug\net6.0\ref\013_Printing_Triangle.dll

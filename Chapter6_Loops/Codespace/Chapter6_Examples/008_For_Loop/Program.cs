@@ -1,0 +1,10 @@
+﻿for(int i = 0; i < 10; i++)
+{
+    Console.Write(i + ",");
+}
+
+
+for(int i = 1, sum = 1; i <= 128; i = i * 2, sum +=i )
+{
+    Console.WriteLine("i = {0}, sum = {1}",i,sum);
+}

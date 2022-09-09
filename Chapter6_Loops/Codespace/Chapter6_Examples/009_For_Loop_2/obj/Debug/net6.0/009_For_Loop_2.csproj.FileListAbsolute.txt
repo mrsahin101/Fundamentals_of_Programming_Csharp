@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\bin\Debug\net6.0\009_For_Loop_2.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\bin\Debug\net6.0\009_For_Loop_2.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\bin\Debug\net6.0\009_For_Loop_2.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\bin\Debug\net6.0\009_For_Loop_2.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\bin\Debug\net6.0\009_For_Loop_2.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\obj\Debug\net6.0\009_For_Loop_2.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\obj\Debug\net6.0\009_For_Loop_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\obj\Debug\net6.0\009_For_Loop_2.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\obj\Debug\net6.0\009_For_Loop_2.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\obj\Debug\net6.0\009_For_Loop_2.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\obj\Debug\net6.0\009_For_Loop_2.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\obj\Debug\net6.0\refint\009_For_Loop_2.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\obj\Debug\net6.0\009_For_Loop_2.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\obj\Debug\net6.0\009_For_Loop_2.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Codespace\Chapter6_Examples\009_For_Loop_2\obj\Debug\net6.0\ref\009_For_Loop_2.dll

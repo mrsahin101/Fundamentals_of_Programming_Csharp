@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "011_Sum_of_Odd_Not_Divisible_with_Seven/1.0.0": {
+        "runtime": {
+          "011_Sum_of_Odd_Not_Divisible_with_Seven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "011_Sum_of_Odd_Not_Divisible_with_Seven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
