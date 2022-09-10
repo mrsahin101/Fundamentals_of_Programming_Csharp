@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\bin\Debug\net6.0\009_Sum_of_series.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\bin\Debug\net6.0\009_Sum_of_series.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\bin\Debug\net6.0\009_Sum_of_series.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\bin\Debug\net6.0\009_Sum_of_series.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\bin\Debug\net6.0\009_Sum_of_series.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\obj\Debug\net6.0\009_Sum_of_series.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\obj\Debug\net6.0\009_Sum_of_series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\obj\Debug\net6.0\009_Sum_of_series.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\obj\Debug\net6.0\009_Sum_of_series.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\obj\Debug\net6.0\009_Sum_of_series.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\obj\Debug\net6.0\009_Sum_of_series.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\obj\Debug\net6.0\refint\009_Sum_of_series.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\obj\Debug\net6.0\009_Sum_of_series.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\obj\Debug\net6.0\009_Sum_of_series.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\009_Sum_of_series\obj\Debug\net6.0\ref\009_Sum_of_series.dll

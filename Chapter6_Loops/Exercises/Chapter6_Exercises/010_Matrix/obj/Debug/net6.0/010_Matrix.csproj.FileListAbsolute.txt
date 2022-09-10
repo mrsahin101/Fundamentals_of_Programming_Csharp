@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\bin\Debug\net6.0\010_Matrix.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\bin\Debug\net6.0\010_Matrix.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\bin\Debug\net6.0\010_Matrix.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\bin\Debug\net6.0\010_Matrix.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\bin\Debug\net6.0\010_Matrix.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\obj\Debug\net6.0\010_Matrix.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\obj\Debug\net6.0\010_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\obj\Debug\net6.0\010_Matrix.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\obj\Debug\net6.0\010_Matrix.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\obj\Debug\net6.0\010_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\obj\Debug\net6.0\010_Matrix.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\obj\Debug\net6.0\refint\010_Matrix.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\obj\Debug\net6.0\010_Matrix.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\obj\Debug\net6.0\010_Matrix.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\010_Matrix\obj\Debug\net6.0\ref\010_Matrix.dll

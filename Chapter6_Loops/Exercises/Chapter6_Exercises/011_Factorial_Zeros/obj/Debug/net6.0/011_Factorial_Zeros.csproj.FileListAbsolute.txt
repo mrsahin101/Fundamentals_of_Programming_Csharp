@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\bin\Debug\net6.0\011_Factorial_Zeros.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\bin\Debug\net6.0\011_Factorial_Zeros.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\bin\Debug\net6.0\011_Factorial_Zeros.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\bin\Debug\net6.0\011_Factorial_Zeros.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\bin\Debug\net6.0\011_Factorial_Zeros.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\obj\Debug\net6.0\011_Factorial_Zeros.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\obj\Debug\net6.0\011_Factorial_Zeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\obj\Debug\net6.0\011_Factorial_Zeros.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\obj\Debug\net6.0\011_Factorial_Zeros.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\obj\Debug\net6.0\011_Factorial_Zeros.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\obj\Debug\net6.0\011_Factorial_Zeros.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\obj\Debug\net6.0\refint\011_Factorial_Zeros.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\obj\Debug\net6.0\011_Factorial_Zeros.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\obj\Debug\net6.0\011_Factorial_Zeros.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\011_Factorial_Zeros\obj\Debug\net6.0\ref\011_Factorial_Zeros.dll
