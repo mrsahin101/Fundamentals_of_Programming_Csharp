@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\bin\Debug\net6.0\002_Compare_Arrays.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\bin\Debug\net6.0\002_Compare_Arrays.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\bin\Debug\net6.0\002_Compare_Arrays.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\bin\Debug\net6.0\002_Compare_Arrays.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\bin\Debug\net6.0\002_Compare_Arrays.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\obj\Debug\net6.0\002_Compare_Arrays.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\obj\Debug\net6.0\002_Compare_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\obj\Debug\net6.0\002_Compare_Arrays.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\obj\Debug\net6.0\002_Compare_Arrays.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\obj\Debug\net6.0\002_Compare_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\obj\Debug\net6.0\002_Compare_Arrays.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\obj\Debug\net6.0\refint\002_Compare_Arrays.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\obj\Debug\net6.0\002_Compare_Arrays.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\obj\Debug\net6.0\002_Compare_Arrays.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\002_Compare_Arrays\obj\Debug\net6.0\ref\002_Compare_Arrays.dll

@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\bin\Debug\net6.0\001_Array.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\bin\Debug\net6.0\001_Array.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\bin\Debug\net6.0\001_Array.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\bin\Debug\net6.0\001_Array.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\bin\Debug\net6.0\001_Array.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\obj\Debug\net6.0\001_Array.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\obj\Debug\net6.0\001_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\obj\Debug\net6.0\001_Array.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\obj\Debug\net6.0\001_Array.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\obj\Debug\net6.0\001_Array.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\obj\Debug\net6.0\001_Array.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\obj\Debug\net6.0\refint\001_Array.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\obj\Debug\net6.0\001_Array.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\obj\Debug\net6.0\001_Array.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\001_Array\obj\Debug\net6.0\ref\001_Array.dll
