@@ -49,3 +49,5 @@
 * iterates over all elements of an array, list or other collection of elements(IEnumerable)
 
 - CPU can make many computation so fast in really short period of time. But when it comes to printing out text to console this can be 10K to 20K lines per second. Printing text is slow.
+
+- Foreach Loop is **read-only**, so we cannot modify the current loop item from the loop body.

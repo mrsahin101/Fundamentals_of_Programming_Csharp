@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\bin\Debug\net6.0\002_Iterate_over_Array.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\bin\Debug\net6.0\002_Iterate_over_Array.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\bin\Debug\net6.0\002_Iterate_over_Array.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\bin\Debug\net6.0\002_Iterate_over_Array.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\bin\Debug\net6.0\002_Iterate_over_Array.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\obj\Debug\net6.0\002_Iterate_over_Array.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\obj\Debug\net6.0\002_Iterate_over_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\obj\Debug\net6.0\002_Iterate_over_Array.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\obj\Debug\net6.0\002_Iterate_over_Array.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\obj\Debug\net6.0\002_Iterate_over_Array.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\obj\Debug\net6.0\002_Iterate_over_Array.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\obj\Debug\net6.0\refint\002_Iterate_over_Array.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\obj\Debug\net6.0\002_Iterate_over_Array.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\obj\Debug\net6.0\002_Iterate_over_Array.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\002_Iterate_over_Array\obj\Debug\net6.0\ref\002_Iterate_over_Array.dll

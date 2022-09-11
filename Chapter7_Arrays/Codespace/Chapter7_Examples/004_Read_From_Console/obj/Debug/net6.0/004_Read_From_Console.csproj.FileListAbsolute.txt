@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\bin\Debug\net6.0\004_Read_From_Console.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\bin\Debug\net6.0\004_Read_From_Console.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\bin\Debug\net6.0\004_Read_From_Console.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\bin\Debug\net6.0\004_Read_From_Console.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\bin\Debug\net6.0\004_Read_From_Console.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\obj\Debug\net6.0\004_Read_From_Console.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\obj\Debug\net6.0\004_Read_From_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\obj\Debug\net6.0\004_Read_From_Console.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\obj\Debug\net6.0\004_Read_From_Console.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\obj\Debug\net6.0\004_Read_From_Console.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\obj\Debug\net6.0\004_Read_From_Console.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\obj\Debug\net6.0\refint\004_Read_From_Console.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\obj\Debug\net6.0\004_Read_From_Console.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\obj\Debug\net6.0\004_Read_From_Console.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\004_Read_From_Console\obj\Debug\net6.0\ref\004_Read_From_Console.dll

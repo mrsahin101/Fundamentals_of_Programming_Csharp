@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\bin\Debug\net6.0\006_Printing_Array.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\bin\Debug\net6.0\006_Printing_Array.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\bin\Debug\net6.0\006_Printing_Array.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\bin\Debug\net6.0\006_Printing_Array.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\bin\Debug\net6.0\006_Printing_Array.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\obj\Debug\net6.0\006_Printing_Array.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\obj\Debug\net6.0\006_Printing_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\obj\Debug\net6.0\006_Printing_Array.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\obj\Debug\net6.0\006_Printing_Array.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\obj\Debug\net6.0\006_Printing_Array.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\obj\Debug\net6.0\006_Printing_Array.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\obj\Debug\net6.0\refint\006_Printing_Array.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\obj\Debug\net6.0\006_Printing_Array.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\obj\Debug\net6.0\006_Printing_Array.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Codespace\Chapter7_Examples\006_Printing_Array\obj\Debug\net6.0\ref\006_Printing_Array.dll
