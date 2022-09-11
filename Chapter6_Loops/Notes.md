@@ -1,4 +1,4 @@
-# Chapter 5-> LOOPS
+# Chapter 6-> LOOPS
 
 ###  While Loop Syntax :
     while(condition)    
@@ -40,7 +40,7 @@
     }
 
 
-- Foreach Loop Syntax : Also known as extended For Loop
+### Foreach Loop Syntax : Also known as extended For Loop
     foreach(type variable in collection)
     {
         statements;
