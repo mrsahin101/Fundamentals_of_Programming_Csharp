@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\bin\Debug\net6.0\018_Spiral.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\bin\Debug\net6.0\018_Spiral.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\bin\Debug\net6.0\018_Spiral.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\bin\Debug\net6.0\018_Spiral.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\bin\Debug\net6.0\018_Spiral.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\obj\Debug\net6.0\018_Spiral.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\obj\Debug\net6.0\018_Spiral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\obj\Debug\net6.0\018_Spiral.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\obj\Debug\net6.0\018_Spiral.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\obj\Debug\net6.0\018_Spiral.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\obj\Debug\net6.0\018_Spiral.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\obj\Debug\net6.0\refint\018_Spiral.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\obj\Debug\net6.0\018_Spiral.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\obj\Debug\net6.0\018_Spiral.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\018_Spiral\obj\Debug\net6.0\ref\018_Spiral.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "015_Hexdecimal_to_Decimal/1.0.0": {
+        "runtime": {
+          "015_Hexdecimal_to_Decimal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "015_Hexdecimal_to_Decimal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\bin\Debug\net6.0\016_Random_Number.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\bin\Debug\net6.0\016_Random_Number.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\bin\Debug\net6.0\016_Random_Number.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\bin\Debug\net6.0\016_Random_Number.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\bin\Debug\net6.0\016_Random_Number.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\obj\Debug\net6.0\016_Random_Number.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\obj\Debug\net6.0\016_Random_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\obj\Debug\net6.0\016_Random_Number.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\obj\Debug\net6.0\016_Random_Number.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\obj\Debug\net6.0\016_Random_Number.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\obj\Debug\net6.0\016_Random_Number.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\obj\Debug\net6.0\refint\016_Random_Number.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\obj\Debug\net6.0\016_Random_Number.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\obj\Debug\net6.0\016_Random_Number.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\016_Random_Number\obj\Debug\net6.0\ref\016_Random_Number.dll

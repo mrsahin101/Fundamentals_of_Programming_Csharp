@@ -13,23 +13,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Deck_of_Cards", "004_De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Fibonacci_Series", "005_Fibonacci_Series\005_Fibonacci_Series.csproj", "{2D04633F-1406-4B35-83B4-04D27AEA8B79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Factorial_Calculation", "006_Factorial_Calculation\006_Factorial_Calculation.csproj", "{3895B167-440F-4E6A-A5C3-E876C73C4F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Factorial_Calculation", "006_Factorial_Calculation\006_Factorial_Calculation.csproj", "{3895B167-440F-4E6A-A5C3-E876C73C4F4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Catalan_Numbers", "007_Catalan_Numbers\008_Catalan_Numbers.csproj", "{9D206320-E3A0-4A0D-BB70-966337A95A91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Catalan_Numbers", "007_Catalan_Numbers\008_Catalan_Numbers.csproj", "{9D206320-E3A0-4A0D-BB70-966337A95A91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Factorial_Calculation2", "007_Factorial_Calculation2\007_Factorial_Calculation2.csproj", "{631DFABA-438F-4DCD-8C29-F1C0AE45D490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Factorial_Calculation2", "007_Factorial_Calculation2\007_Factorial_Calculation2.csproj", "{631DFABA-438F-4DCD-8C29-F1C0AE45D490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Sum_of_series", "009_Sum_of_series\009_Sum_of_series.csproj", "{6A117D77-79B4-4296-9547-2D39407BA045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Sum_of_series", "009_Sum_of_series\009_Sum_of_series.csproj", "{6A117D77-79B4-4296-9547-2D39407BA045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Matrix", "010_Matrix\010_Matrix.csproj", "{8250E0FF-3F05-4E33-876B-30B9294CD91F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Matrix", "010_Matrix\010_Matrix.csproj", "{8250E0FF-3F05-4E33-876B-30B9294CD91F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Factorial_Zeros", "011_Factorial_Zeros\011_Factorial_Zeros.csproj", "{3AAA35C0-8D1B-472E-9BE4-5F2C7B331DBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_Factorial_Zeros", "011_Factorial_Zeros\011_Factorial_Zeros.csproj", "{3AAA35C0-8D1B-472E-9BE4-5F2C7B331DBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Decimal_to_Binary", "012_Decimal_to_Binary\012_Decimal_to_Binary.csproj", "{47D861DC-DD6B-42C3-AA2A-8F844A85F9EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012_Decimal_to_Binary", "012_Decimal_to_Binary\012_Decimal_to_Binary.csproj", "{47D861DC-DD6B-42C3-AA2A-8F844A85F9EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Binary_to_Decimal", "013_Binary_to_Decimal\013_Binary_to_Decimal.csproj", "{32F9C861-6996-4EDF-AD3E-B4D1AE1E9443}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013_Binary_to_Decimal", "013_Binary_to_Decimal\013_Binary_to_Decimal.csproj", "{32F9C861-6996-4EDF-AD3E-B4D1AE1E9443}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_Decimal_to_Hexdecimal", "014_Decimal_to_Hexdecimal\014_Decimal_to_Hexdecimal.csproj", "{5E8BF05C-24FE-4178-A31B-5444E0CE96F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "014_Decimal_to_Hexdecimal", "014_Decimal_to_Hexdecimal\014_Decimal_to_Hexdecimal.csproj", "{5E8BF05C-24FE-4178-A31B-5444E0CE96F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015_Hexdecimal_to_Decimal", "015_Hexdecimal_to_Decimal\015_Hexdecimal_to_Decimal.csproj", "{D7CFCFB6-9D03-4163-8BAE-22F0F7950C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016_Random_Number", "016_Random_Number\016_Random_Number.csproj", "{84D138D1-D0FE-444B-83AD-73443F339735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_GCD_LCM", "017_GCD_LCM\017_GCD_LCM.csproj", "{D4A2A008-6F02-499D-85EB-2676309B6ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018_Spiral", "018_Spiral\018_Spiral.csproj", "{EDCB2145-9FF5-44D8-945E-AB13709712DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +101,22 @@ Global
 		{5E8BF05C-24FE-4178-A31B-5444E0CE96F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E8BF05C-24FE-4178-A31B-5444E0CE96F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E8BF05C-24FE-4178-A31B-5444E0CE96F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CFCFB6-9D03-4163-8BAE-22F0F7950C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CFCFB6-9D03-4163-8BAE-22F0F7950C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CFCFB6-9D03-4163-8BAE-22F0F7950C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CFCFB6-9D03-4163-8BAE-22F0F7950C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D138D1-D0FE-444B-83AD-73443F339735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D138D1-D0FE-444B-83AD-73443F339735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D138D1-D0FE-444B-83AD-73443F339735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D138D1-D0FE-444B-83AD-73443F339735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A2A008-6F02-499D-85EB-2676309B6ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A2A008-6F02-499D-85EB-2676309B6ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A2A008-6F02-499D-85EB-2676309B6ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A2A008-6F02-499D-85EB-2676309B6ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCB2145-9FF5-44D8-945E-AB13709712DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCB2145-9FF5-44D8-945E-AB13709712DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCB2145-9FF5-44D8-945E-AB13709712DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCB2145-9FF5-44D8-945E-AB13709712DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\bin\Debug\net6.0\017_GCD_LCM.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\bin\Debug\net6.0\017_GCD_LCM.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\bin\Debug\net6.0\017_GCD_LCM.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\bin\Debug\net6.0\017_GCD_LCM.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\bin\Debug\net6.0\017_GCD_LCM.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\obj\Debug\net6.0\017_GCD_LCM.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\obj\Debug\net6.0\017_GCD_LCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\obj\Debug\net6.0\017_GCD_LCM.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\obj\Debug\net6.0\017_GCD_LCM.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\obj\Debug\net6.0\017_GCD_LCM.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\obj\Debug\net6.0\017_GCD_LCM.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\obj\Debug\net6.0\refint\017_GCD_LCM.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\obj\Debug\net6.0\017_GCD_LCM.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\obj\Debug\net6.0\017_GCD_LCM.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter6_Loops\Exercises\Chapter6_Exercises\017_GCD_LCM\obj\Debug\net6.0\ref\017_GCD_LCM.dll
