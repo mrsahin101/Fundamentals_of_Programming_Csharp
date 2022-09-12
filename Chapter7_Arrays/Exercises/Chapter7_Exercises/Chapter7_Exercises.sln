@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Array", "001_Array\001_Array.csproj", "{34D98F5C-D9C5-437F-A323-CE8AE60758AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Array", "001_Array\001_Array.csproj", "{34D98F5C-D9C5-437F-A323-CE8AE60758AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Compare_Arrays", "002_Compare_Arrays\002_Compare_Arrays.csproj", "{7DDFB495-99A9-45F3-A70F-5A1A72FF7368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Compare_Arrays", "002_Compare_Arrays\002_Compare_Arrays.csproj", "{7DDFB495-99A9-45F3-A70F-5A1A72FF7368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Lexicographic_Order", "003_Lexicographic_Order\003_Lexicographic_Order.csproj", "{1BC7B2E0-C4DC-4AD9-85AF-59ACBDB450DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Lexicographic_Order", "003_Lexicographic_Order\003_Lexicographic_Order.csproj", "{1BC7B2E0-C4DC-4AD9-85AF-59ACBDB450DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Maximal_Consecutive_Elements", "004_Maximal_Consecutive_Elements\004_Maximal_Consecutive_Elements.csproj", "{D2F2C7B8-529C-4A8A-A3C6-4DC1D9221EDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Maximal_Consecutive_Elements", "004_Maximal_Consecutive_Elements\004_Maximal_Consecutive_Elements.csproj", "{D2F2C7B8-529C-4A8A-A3C6-4DC1D9221EDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Increasing_Consecutive", "005_Increasing_Consecutive\005_Increasing_Consecutive.csproj", "{A312A480-46D0-4EF1-8A83-0AE107B8A897}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Increasing_Consecutive", "005_Increasing_Consecutive\005_Increasing_Consecutive.csproj", "{A312A480-46D0-4EF1-8A83-0AE107B8A897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Increasing_Squence", "006_Increasing_Squence\006_Increasing_Squence.csproj", "{47DF2457-059B-4CA3-9384-2F47B71DC269}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A312A480-46D0-4EF1-8A83-0AE107B8A897}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A312A480-46D0-4EF1-8A83-0AE107B8A897}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A312A480-46D0-4EF1-8A83-0AE107B8A897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DF2457-059B-4CA3-9384-2F47B71DC269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DF2457-059B-4CA3-9384-2F47B71DC269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DF2457-059B-4CA3-9384-2F47B71DC269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DF2457-059B-4CA3-9384-2F47B71DC269}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
