@@ -3,7 +3,7 @@
  * E.g.: {9, 6, 2, 7, 4, 7, 6, 5, 8, 4}  {2, 4, 6, 8}.
  */
 
-int[] myArray = { 9, 6, 2, 7, 4, 7, 6, 5, 8, 4 };
+int[] myArray = { 9, 6, 2, 7,4,7, 6, 5, 8, 4 };
 
 int maxSquenceCount = 1;
 int maxStartingIndex = 0;
@@ -16,11 +16,12 @@ for(int i = 0; i < myArray.Length; i++)
     temporary[0] = myArray[i];
     for(int j = i + 1; j < myArray.Length; j++)
     {
+        //for(int k =  )
         if(myArray[j] > temporary[currentIndexer - 1])
         {
             temporary[currentIndexer] = myArray[j];
             currentIndexer++;
-            if(currentIndexer > maxSquenceCount)
+            if (currentIndexer > maxSquenceCount)
             {
                 maxStartingIndex = i;
                 maxSquenceCount = currentIndexer;

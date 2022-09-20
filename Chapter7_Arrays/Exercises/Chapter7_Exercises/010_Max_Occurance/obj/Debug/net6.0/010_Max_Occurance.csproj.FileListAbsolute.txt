@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\bin\Debug\net6.0\010_Max_Occurance.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\bin\Debug\net6.0\010_Max_Occurance.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\bin\Debug\net6.0\010_Max_Occurance.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\bin\Debug\net6.0\010_Max_Occurance.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\bin\Debug\net6.0\010_Max_Occurance.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\obj\Debug\net6.0\010_Max_Occurance.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\obj\Debug\net6.0\010_Max_Occurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\obj\Debug\net6.0\010_Max_Occurance.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\obj\Debug\net6.0\010_Max_Occurance.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\obj\Debug\net6.0\010_Max_Occurance.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\obj\Debug\net6.0\010_Max_Occurance.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\obj\Debug\net6.0\refint\010_Max_Occurance.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\obj\Debug\net6.0\010_Max_Occurance.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\obj\Debug\net6.0\010_Max_Occurance.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\010_Max_Occurance\obj\Debug\net6.0\ref\010_Max_Occurance.dll

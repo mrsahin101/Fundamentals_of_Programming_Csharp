@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\bin\Debug\net6.0\008_Selection_Sort.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\bin\Debug\net6.0\008_Selection_Sort.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\bin\Debug\net6.0\008_Selection_Sort.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\bin\Debug\net6.0\008_Selection_Sort.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\bin\Debug\net6.0\008_Selection_Sort.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\obj\Debug\net6.0\008_Selection_Sort.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\obj\Debug\net6.0\008_Selection_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\obj\Debug\net6.0\008_Selection_Sort.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\obj\Debug\net6.0\008_Selection_Sort.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\obj\Debug\net6.0\008_Selection_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\obj\Debug\net6.0\008_Selection_Sort.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\obj\Debug\net6.0\refint\008_Selection_Sort.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\obj\Debug\net6.0\008_Selection_Sort.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\obj\Debug\net6.0\008_Selection_Sort.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\008_Selection_Sort\obj\Debug\net6.0\ref\008_Selection_Sort.dll
