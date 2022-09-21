@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\bin\Debug\net6.0\016_Binary_Search.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\bin\Debug\net6.0\016_Binary_Search.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\bin\Debug\net6.0\016_Binary_Search.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\bin\Debug\net6.0\016_Binary_Search.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\bin\Debug\net6.0\016_Binary_Search.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\obj\Debug\net6.0\016_Binary_Search.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\obj\Debug\net6.0\016_Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\obj\Debug\net6.0\016_Binary_Search.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\obj\Debug\net6.0\016_Binary_Search.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\obj\Debug\net6.0\016_Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\obj\Debug\net6.0\016_Binary_Search.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\obj\Debug\net6.0\refint\016_Binary_Search.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\obj\Debug\net6.0\016_Binary_Search.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\obj\Debug\net6.0\016_Binary_Search.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter7_Arrays\Exercises\Chapter7_Exercises\016_Binary_Search\obj\Debug\net6.0\ref\016_Binary_Search.dll
