@@ -2,7 +2,74 @@
  * It is not necessary the elements to be consecutively placed. 
  * E.g.: {9, 6, 2, 7, 4, 7, 6, 5, 8, 4}  {2, 4, 6, 8}.
  */
+int[] myArray = { 9, 6, 2, 7, 4, 7, 6, 5, 8, 4 };
 
+int[] lis = new int[myArray.Length];
+int max = 0;
+int maxPosition = 0;
+for(int i = 0; i < myArray.Length; i++)
+{
+    lis[i] = 1;
+}
+
+for(int i = 1; i < myArray.Length; i++)
+{
+    for(int j = 0; j < i; j++)
+    {
+        if(myArray[i] > myArray[j] && lis[i] < lis[j] + 1)
+            lis[i] = lis[j] + 1;
+    }
+}
+for(int i = 0; i < myArray.Length; i++)
+{
+    if(max < lis[i])
+    {
+        max = lis[i];
+        maxPosition = i;
+    }
+        
+}
+Console.WriteLine("Maximal sequence of increasing elements count is :{0} ", max);
+
+int[] result = new int[max];
+int I = (max - 1);
+int maxCount = max;
+for (int index = maxPosition; index >= 0; index--)
+{
+    if (lis[index] == max)
+    {
+        result[I] = myArray[index];
+        max--;
+        I--;
+    }
+}
+
+// Print the result[]
+Console.WriteLine();
+Console.Write("{");
+for (int index = 0; index < maxCount; index++)
+{
+    Console.Write(" " + result[index] + " ");
+}
+Console.WriteLine("}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***** FAILED SOLUTION *****/
+/*
 int[] myArray = { 9, 6, 2, 7,4,7, 6, 5, 8, 4 };
 
 int maxSquenceCount = 1;
@@ -30,3 +97,4 @@ for(int i = 0; i < myArray.Length; i++)
     }
 }
 Console.WriteLine("Starting " + maxStartingIndex + "max count " + maxSquenceCount);
+*/

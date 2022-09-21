@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018_Quick_Sort", "018_Quick
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019_Find_Prime_Numbers_in_Interval", "019_Find_Prime_Numbers_in_Interval\019_Find_Prime_Numbers_in_Interval.csproj", "{7F34343D-97D8-4313-8746-DEE03A0A8CCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Sub_Sequence_Sum", "009_Sub_Sequence_Sum\009_Sub_Sequence_Sum.csproj", "{28C5DF77-3193-4B39-AC37-C1C70E5E68BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Sum_of_Certain_Number", "011_Sum_of_Certain_Number\011_Sum_of_Certain_Number.csproj", "{C459697E-6550-49A6-BEBE-022EDA381142}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{7F34343D-97D8-4313-8746-DEE03A0A8CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F34343D-97D8-4313-8746-DEE03A0A8CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F34343D-97D8-4313-8746-DEE03A0A8CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C5DF77-3193-4B39-AC37-C1C70E5E68BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C5DF77-3193-4B39-AC37-C1C70E5E68BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C5DF77-3193-4B39-AC37-C1C70E5E68BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C5DF77-3193-4B39-AC37-C1C70E5E68BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C459697E-6550-49A6-BEBE-022EDA381142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C459697E-6550-49A6-BEBE-022EDA381142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C459697E-6550-49A6-BEBE-022EDA381142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C459697E-6550-49A6-BEBE-022EDA381142}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
