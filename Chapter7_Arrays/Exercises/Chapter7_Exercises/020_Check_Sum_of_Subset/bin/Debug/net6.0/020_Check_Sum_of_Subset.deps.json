@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "020_Check_Sum_of_Subset/1.0.0": {
+        "runtime": {
+          "020_Check_Sum_of_Subset.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "020_Check_Sum_of_Subset/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

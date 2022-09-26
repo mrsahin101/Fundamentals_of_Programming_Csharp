@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "023_All_Variations/1.0.0": {
+        "runtime": {
+          "023_All_Variations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "023_All_Variations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
