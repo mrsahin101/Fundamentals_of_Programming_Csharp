@@ -1,0 +1,183 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Bond.Core.CSharp/10.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.6/Bond.Attributes.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard1.6/Bond.IO.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard1.6/Bond.Reflection.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard1.6/Bond.dll": {
+            "related": ".Attributes.pdb;.Attributes.xml;.IO.pdb;.IO.xml;.pdb;.Reflection.pdb;.Reflection.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.6/Bond.Attributes.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard1.6/Bond.IO.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard1.6/Bond.Reflection.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netstandard1.6/Bond.dll": {
+            "related": ".Attributes.pdb;.Attributes.xml;.IO.pdb;.IO.xml;.pdb;.Reflection.pdb;.Reflection.xml;.xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bond.Core.CSharp/10.0.0": {
+      "sha512": "tybkI7nGBblx/+azotfPVpHhBNW0EsU1D+JSubm4EX7K3xPau88ztkO+o6kiQ37dAKWWa1hxLU6ivQQvkE6mdw==",
+      "type": "package",
+      "path": "bond.core.csharp/10.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bond.core.csharp.10.0.0.nupkg.sha512",
+        "bond.core.csharp.nuspec",
+        "images/bond-logo-64x64-transparent.png",
+        "lib/net45/Bond.Attributes.dll",
+        "lib/net45/Bond.Attributes.pdb",
+        "lib/net45/Bond.Attributes.xml",
+        "lib/net45/Bond.IO.dll",
+        "lib/net45/Bond.IO.pdb",
+        "lib/net45/Bond.IO.xml",
+        "lib/net45/Bond.Reflection.dll",
+        "lib/net45/Bond.Reflection.pdb",
+        "lib/net45/Bond.Reflection.xml",
+        "lib/net45/Bond.dll",
+        "lib/net45/Bond.pdb",
+        "lib/net45/Bond.xml",
+        "lib/net46/Bond.Attributes.dll",
+        "lib/net46/Bond.Attributes.pdb",
+        "lib/net46/Bond.Attributes.xml",
+        "lib/net46/Bond.IO.dll",
+        "lib/net46/Bond.IO.pdb",
+        "lib/net46/Bond.IO.xml",
+        "lib/net46/Bond.Reflection.dll",
+        "lib/net46/Bond.Reflection.pdb",
+        "lib/net46/Bond.Reflection.xml",
+        "lib/net46/Bond.dll",
+        "lib/net46/Bond.pdb",
+        "lib/net46/Bond.xml",
+        "lib/netstandard1.0/Bond.Attributes.dll",
+        "lib/netstandard1.0/Bond.Attributes.pdb",
+        "lib/netstandard1.0/Bond.Attributes.xml",
+        "lib/netstandard1.0/Bond.Reflection.dll",
+        "lib/netstandard1.0/Bond.Reflection.pdb",
+        "lib/netstandard1.0/Bond.Reflection.xml",
+        "lib/netstandard1.0/Bond.dll",
+        "lib/netstandard1.0/Bond.pdb",
+        "lib/netstandard1.0/Bond.xml",
+        "lib/netstandard1.3/Bond.Attributes.dll",
+        "lib/netstandard1.3/Bond.Attributes.pdb",
+        "lib/netstandard1.3/Bond.Attributes.xml",
+        "lib/netstandard1.3/Bond.IO.dll",
+        "lib/netstandard1.3/Bond.IO.pdb",
+        "lib/netstandard1.3/Bond.IO.xml",
+        "lib/netstandard1.3/Bond.Reflection.dll",
+        "lib/netstandard1.3/Bond.Reflection.pdb",
+        "lib/netstandard1.3/Bond.Reflection.xml",
+        "lib/netstandard1.3/Bond.dll",
+        "lib/netstandard1.3/Bond.pdb",
+        "lib/netstandard1.3/Bond.xml",
+        "lib/netstandard1.6/Bond.Attributes.dll",
+        "lib/netstandard1.6/Bond.Attributes.pdb",
+        "lib/netstandard1.6/Bond.Attributes.xml",
+        "lib/netstandard1.6/Bond.IO.dll",
+        "lib/netstandard1.6/Bond.IO.pdb",
+        "lib/netstandard1.6/Bond.IO.xml",
+        "lib/netstandard1.6/Bond.Reflection.dll",
+        "lib/netstandard1.6/Bond.Reflection.pdb",
+        "lib/netstandard1.6/Bond.Reflection.xml",
+        "lib/netstandard1.6/Bond.dll",
+        "lib/netstandard1.6/Bond.pdb",
+        "lib/netstandard1.6/Bond.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Bond.Core.CSharp >= 10.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Master\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Master\\Desktop\\Workspace\\Fundamentals_of_Programming_CSharp\\Chapter7_Arrays\\Exercises\\Chapter7_Exercises\\025_Find_Longest_Path\\025_Find_Longest_Path.csproj",
+      "projectName": "025_Find_Longest_Path",
+      "projectPath": "C:\\Users\\Master\\Desktop\\Workspace\\Fundamentals_of_Programming_CSharp\\Chapter7_Arrays\\Exercises\\Chapter7_Exercises\\025_Find_Longest_Path\\025_Find_Longest_Path.csproj",
+      "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Master\\Desktop\\Workspace\\Fundamentals_of_Programming_CSharp\\Chapter7_Arrays\\Exercises\\Chapter7_Exercises\\025_Find_Longest_Path\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Bond.Core.CSharp": {
+            "target": "Package",
+            "version": "[10.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

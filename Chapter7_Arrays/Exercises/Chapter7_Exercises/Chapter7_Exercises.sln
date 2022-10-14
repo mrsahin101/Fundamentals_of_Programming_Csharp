@@ -51,11 +51,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "020_Check_Sum_of_Subset", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "021_Sum_of_K_Elements", "021_Sum_of_K_Elements\021_Sum_of_K_Elements.csproj", "{D055D4BE-04D3-417C-947A-30462C4A6FDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022_Maximum_Increasing_Sequence", "022_Maximum_Increasing_Sequence\022_Maximum_Increasing_Sequence.csproj", "{74EF27B5-7B2A-4AF7-819D-D8FA08E77500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "022_Maximum_Increasing_Sequence", "022_Maximum_Increasing_Sequence\022_Maximum_Increasing_Sequence.csproj", "{74EF27B5-7B2A-4AF7-819D-D8FA08E77500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023_All_Variations", "023_All_Variations\023_All_Variations.csproj", "{220C00C7-1EE5-46B1-9F3C-04A7AC36E93E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "023_All_Variations", "023_All_Variations\023_All_Variations.csproj", "{220C00C7-1EE5-46B1-9F3C-04A7AC36E93E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024_Combinations", "024_Combinations\024_Combinations.csproj", "{4E387D82-C005-4981-87C9-A8EFE8499113}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024_Combinations", "024_Combinations\024_Combinations.csproj", "{4E387D82-C005-4981-87C9-A8EFE8499113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025_Find_Longest_Path", "025_Find_Longest_Path\025_Find_Longest_Path.csproj", "{DA0F1CE9-07F3-43A6-AD11-74222BEE74B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{4E387D82-C005-4981-87C9-A8EFE8499113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E387D82-C005-4981-87C9-A8EFE8499113}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E387D82-C005-4981-87C9-A8EFE8499113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0F1CE9-07F3-43A6-AD11-74222BEE74B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0F1CE9-07F3-43A6-AD11-74222BEE74B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0F1CE9-07F3-43A6-AD11-74222BEE74B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0F1CE9-07F3-43A6-AD11-74222BEE74B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ehT4KpKvDqrroQ5Q50730GjOHquYcO7ixHTJpqnoeG/ElSp0OeHiwVc61eUqZoeA7kQjY+calaHS9qvW5oplFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Master\\Desktop\\Workspace\\Fundamentals_of_Programming_CSharp\\Chapter7_Arrays\\Exercises\\Chapter7_Exercises\\025_Find_Longest_Path\\025_Find_Longest_Path.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Master\\.nuget\\packages\\bond.core.csharp\\10.0.0\\bond.core.csharp.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
