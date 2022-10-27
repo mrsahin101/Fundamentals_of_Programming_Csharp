@@ -14,3 +14,34 @@
 ![Common numeral Representation on Computers](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/tree/main/Chapter8_Numeral_Systems/Images/Common_Representation.png)
 
 - There is also Non-Positional Numeral Systems, which is numbers are represented by their size not place. Which is huge drawback when it comes to represent big numbers! This numbers systems are rarely used!
+
+## Binary Numeral Systems!
+- This is used in modern computing machines!
+- Some naming for bit-wise operations :
+    1. Logical Multiplication(Conjunction)
+    2. Logical Addition(Disjunction)
+    3. Sum of modulo two(Exclusive-Or)
+
+- Bit-wise And in C#
+    * int result = integer1 & integer2;
+
+- Bit-wise OR in C#
+    * int result = integer1 & integer2;
+
+- Bit-wise Ex-Or in C#
+    * int result = integer1 ^ integer2;
+
+- Bit-wise Negation in C# -> (this is unary operator, it means applied to single operand)
+    * int result = ~integer1;
+
+- Machine word is concept could be change from machine to machine. For 16-bit machine the words represent 16-bit data, for 64-bit machine word represent 64-bit data!
+
+- When represent signed number in computer, If MSB(Most-Significant-Bit) shows the sign. If 1 it means it is negative, when 0 it means it is positive!
+
+### Signed Numbers :
+
+![Common numeral Representation on Computers](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/tree/main/Chapter8_Numeral_Systems/Images/Signed_Numbers.png)
+
+### UN-Signed Numbers :
+
+![Common numeral Representation on Computers](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/tree/main/Chapter8_Numeral_Systems/Images/Unsigned_Numbers.png)

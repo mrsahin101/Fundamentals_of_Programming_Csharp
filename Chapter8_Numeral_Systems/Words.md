@@ -7,3 +7,5 @@
 - sexagesimal : 60 tabanlı sayı sistemi;
 - conformable : uyumlu, itaatkar;
 - depicting : tasvir eden, betimlemek;
+- primal : ilkel, baş;
+- coincide : çakışmak, rastlamak, uymak;
