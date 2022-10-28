@@ -9,3 +9,5 @@
 - depicting : tasvir eden, betimlemek;
 - primal : ilkel, baş;
 - coincide : çakışmak, rastlamak, uymak;
+- relevant : ilgili, amaca uygun;
+- situated : yer alan, bulunan;

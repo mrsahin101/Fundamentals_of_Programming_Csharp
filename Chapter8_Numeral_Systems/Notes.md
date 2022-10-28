@@ -40,8 +40,36 @@
 
 ### Signed Numbers :
 
-![Common numeral Representation on Computers](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/tree/main/Chapter8_Numeral_Systems/Images/Signed_Numbers.png)
+![Signed Numbers](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/tree/main/Chapter8_Numeral_Systems/Images/Signed_Numbers.png)
 
 ### UN-Signed Numbers :
 
-![Common numeral Representation on Computers](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/tree/main/Chapter8_Numeral_Systems/Images/Unsigned_Numbers.png)
+![Un-Signed Numbers](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/tree/main/Chapter8_Numeral_Systems/Images/Unsigned_Numbers.png)
+
+
+## Integer Types in C#
+
+![Integer Types](https://github.com/mrsahin101/Fundamentals_of_Programming_Csharp/tree/main/Chapter8_Numeral_Systems/Images/Integer_Typpes.png)
+
+- When giving value to long type variable, we have to put 'l' or 'L' at the end of value. E.g. ->  long myLongVariable = 9223377623423l;
+    long mySecondLongVar = 858238123123912L;
+- This is done because all literals has int type by default in C#. But since small l could look like 1 its better to use L instead. This is good practice.
+
+- For ulong available suffixes are : UL, ul, Ul, uL, Lu, lU
+
+- When we are ordering bytes in memory there are 2 way we can do it!
+    1. Little Endian : Bytes ordered left-to-right from lowest to highest
+        Example for 0xA8B6EA72 : 0xA8 0xB6 0xEA 0x72
+    
+    2. Big Endian : Bytes ordered from left-to-right starting from highest order to lowest
+        Example for 0xA8B6EA72 : 0x72 0xEA 0xB6 0xA8
+
+- Most hardware units obey IEEE-754 standart for floating point arithmetic! 
+    -> also IEEE-754-1985 is another document for doing arithmetic with floating point numbers!
+- float : single precision floating-point
+- double : double precision floating-point
+
+- In C# we use f suffixes for float and d suffixes for double.
+    -> In C#, floating-point literals are double by default!
+
+- For financial calculation or alike calculation use decimal data type instead! Decimal type has 128-bit precision. For decimal type, use m or M suffixes

@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\bin\Debug\net6.0\001_Integer_Types.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\bin\Debug\net6.0\001_Integer_Types.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\bin\Debug\net6.0\001_Integer_Types.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\bin\Debug\net6.0\001_Integer_Types.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\bin\Debug\net6.0\001_Integer_Types.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\obj\Debug\net6.0\001_Integer_Types.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\obj\Debug\net6.0\001_Integer_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\obj\Debug\net6.0\001_Integer_Types.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\obj\Debug\net6.0\001_Integer_Types.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\obj\Debug\net6.0\001_Integer_Types.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\obj\Debug\net6.0\001_Integer_Types.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\obj\Debug\net6.0\refint\001_Integer_Types.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\obj\Debug\net6.0\001_Integer_Types.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\obj\Debug\net6.0\001_Integer_Types.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Codespace\001_Integer_Types\001_Integer_Types\obj\Debug\net6.0\ref\001_Integer_Types.dll
