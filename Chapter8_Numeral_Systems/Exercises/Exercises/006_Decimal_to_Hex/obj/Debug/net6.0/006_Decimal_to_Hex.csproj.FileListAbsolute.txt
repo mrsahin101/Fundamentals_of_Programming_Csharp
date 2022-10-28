@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\bin\Debug\net6.0\006_Decimal_to_Hex.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\bin\Debug\net6.0\006_Decimal_to_Hex.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\bin\Debug\net6.0\006_Decimal_to_Hex.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\bin\Debug\net6.0\006_Decimal_to_Hex.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\bin\Debug\net6.0\006_Decimal_to_Hex.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\obj\Debug\net6.0\006_Decimal_to_Hex.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\obj\Debug\net6.0\006_Decimal_to_Hex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\obj\Debug\net6.0\006_Decimal_to_Hex.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\obj\Debug\net6.0\006_Decimal_to_Hex.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\obj\Debug\net6.0\006_Decimal_to_Hex.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\obj\Debug\net6.0\006_Decimal_to_Hex.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\obj\Debug\net6.0\refint\006_Decimal_to_Hex.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\obj\Debug\net6.0\006_Decimal_to_Hex.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\obj\Debug\net6.0\006_Decimal_to_Hex.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\006_Decimal_to_Hex\obj\Debug\net6.0\ref\006_Decimal_to_Hex.dll

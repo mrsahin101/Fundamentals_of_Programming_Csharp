@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\bin\Debug\net6.0\001_Convert_to_Binary.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\bin\Debug\net6.0\001_Convert_to_Binary.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\bin\Debug\net6.0\001_Convert_to_Binary.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\bin\Debug\net6.0\001_Convert_to_Binary.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\bin\Debug\net6.0\001_Convert_to_Binary.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\obj\Debug\net6.0\001_Convert_to_Binary.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\obj\Debug\net6.0\001_Convert_to_Binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\obj\Debug\net6.0\001_Convert_to_Binary.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\obj\Debug\net6.0\001_Convert_to_Binary.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\obj\Debug\net6.0\001_Convert_to_Binary.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\obj\Debug\net6.0\001_Convert_to_Binary.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\obj\Debug\net6.0\refint\001_Convert_to_Binary.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\obj\Debug\net6.0\001_Convert_to_Binary.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\obj\Debug\net6.0\001_Convert_to_Binary.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\001_Convert_to_Binary\obj\Debug\net6.0\ref\001_Convert_to_Binary.dll
