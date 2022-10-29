@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\bin\Debug\net6.0\011_Roman_to_Arabic.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\bin\Debug\net6.0\011_Roman_to_Arabic.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\bin\Debug\net6.0\011_Roman_to_Arabic.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\bin\Debug\net6.0\011_Roman_to_Arabic.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\bin\Debug\net6.0\011_Roman_to_Arabic.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\obj\Debug\net6.0\011_Roman_to_Arabic.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\obj\Debug\net6.0\011_Roman_to_Arabic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\obj\Debug\net6.0\011_Roman_to_Arabic.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\obj\Debug\net6.0\011_Roman_to_Arabic.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\obj\Debug\net6.0\011_Roman_to_Arabic.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\obj\Debug\net6.0\011_Roman_to_Arabic.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\obj\Debug\net6.0\refint\011_Roman_to_Arabic.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\obj\Debug\net6.0\011_Roman_to_Arabic.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\obj\Debug\net6.0\011_Roman_to_Arabic.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter8_Numeral_Systems\Exercises\Exercises\011_Roman_to_Arabic\obj\Debug\net6.0\ref\011_Roman_to_Arabic.dll
