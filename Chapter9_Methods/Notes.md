@@ -18,3 +18,20 @@
     2. The **PascalCase** rule must be applied! Each word in method name must start with capital letter!
     3. Method name must describe the method's purpose!
     
+
+### Modifiers 
+
+- There are few types of modifiers.For example 
+    1. Access Modifiers : 
+        - Public : Can be accessed from any class!
+        - Private : It can be called by the class it created!
+- If method declared without modifier, it is accessible from all classes in the current assembly but not from other assemblies!
+- Static keyword allowing us to use method without needing instance of its class!
+
+- **Method can NOT be declared inside the body of another method**
+
+- Whenever we declare variable inside the body of method, we call that variable **local variable**. Scope of local variables are limited to inside of that method body!
+
+- When method invoked(called) it takes control of the program. After it finished its execution it passes control back to caller.
+- A method can be invoked from its own body. Such a call is refered as **recursion**
+- In C# order of method doesnt matter. Not like C. Where you have to declare functionfirst to use it. 
