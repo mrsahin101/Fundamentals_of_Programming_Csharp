@@ -80,3 +80,32 @@
 
             SomeMethod(1, z:3);     -> This is Equivalent to : SomeMethod(1,5,3);
             SomeMethod(z:3, x:1)    -> This is Equivalent to : SomeMethod(1,5,3);
+
+### Method Overloading
+- When signature(parameter list or the way the arranged) of 2 method differs, we can declare 2 method with same name.This is called method (Draw in our case) is overloaded!
+
+    For Example :   static void Draw(string str)
+                    {
+                
+                    }
+
+                    or
+                    static void Draw(int number)
+                    {
+
+                    }
+- In C# method signature is specified with : parameter type and order of parameter listed. So if signature is different we can overload the method. If signature is same we cant do it!
+    UN-Valid Example :  static void DoSomething(int param1, float param2){ }
+                        static void DoSomething(int p1, float p2) { }
+                    - This is unvalid, even if parameters name are different, signature is same!
+
+    Valid Example :     static void DoSomething(int p1, float p2){ }
+                        static void DoSomething(int param1, int param2) { }
+                    - Since in first method second parameter is float and in second method is int type, we can say these methods signature is different and thats why we can overload this function! 
+
+### Returning Result from Method
+- Syntax for declaring such a method :
+    static <return_type> <method_name> (<parameters_list>)
+    {
+        
+    }
