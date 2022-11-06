@@ -84,7 +84,9 @@
 ### Method Overloading
 - When signature(parameter list or the way the arranged) of 2 method differs, we can declare 2 method with same name.This is called method (Draw in our case) is overloaded!
 
-    For Example :   static void Draw(string str)
+    For Example :   
+    
+                    static void Draw(string str)
                     {
                 
                     }
@@ -105,7 +107,23 @@
 
 ### Returning Result from Method
 - Syntax for declaring such a method :
-    static <return_type> <method_name> (<parameters_list>)
-    {
-        
-    }
+
+                    static <return_type> <method_name> (<parameters_list>)
+                    {
+                        return <method's_result>;   // method's_result must be same type 
+                                                    // as return_type
+                    }
+
+- return type could be either primitive or reference type. Void means doesnt return anything!
+    we use return keyword to return value from method!
+
+- Returning value from method could be used in some expression, or passed as argument to another method or assigned to a variable
+
+- When returning from function sometimes some implicit conversion could be done! Also when returning value from some method we can use some complex expression with return keyword. 
+
+- return keyword when executed it stops execution on method and return immediately
+
+- In same method body return could be called multiple times!
+
+- Method return type is **not** part of method signature. so we cant declare exact same 2 or more methods with exact signature but different return type. This will give compilation error!
+

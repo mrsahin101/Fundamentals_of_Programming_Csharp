@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Method_Overloading", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Print_Triangle", "007_Print_Triangle\007_Print_Triangle.csproj", "{B4E88239-3FF5-49C1-AEFE-7380730821C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Returning_From_Method", "008_Returning_From_Method\008_Returning_From_Method.csproj", "{75C17667-6B48-4DA5-8C46-1EF8EA2875BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Fahrenheit_to_Celcius", "009_Fahrenheit_to_Celcius\009_Fahrenheit_to_Celcius.csproj", "{3E9A8067-6B76-4A23-A327-C563A4F974BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{B4E88239-3FF5-49C1-AEFE-7380730821C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4E88239-3FF5-49C1-AEFE-7380730821C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4E88239-3FF5-49C1-AEFE-7380730821C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C17667-6B48-4DA5-8C46-1EF8EA2875BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C17667-6B48-4DA5-8C46-1EF8EA2875BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C17667-6B48-4DA5-8C46-1EF8EA2875BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C17667-6B48-4DA5-8C46-1EF8EA2875BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9A8067-6B76-4A23-A327-C563A4F974BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9A8067-6B76-4A23-A327-C563A4F974BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9A8067-6B76-4A23-A327-C563A4F974BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9A8067-6B76-4A23-A327-C563A4F974BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
