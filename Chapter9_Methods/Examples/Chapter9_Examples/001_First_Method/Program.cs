@@ -51,3 +51,12 @@ static void PrintMax(float number1, float number2)
     Console.WriteLine("Maximal Number : " + max);
 }
 PrintMax(3.2f, 3.0f);
+
+int numberArg = 3;
+static void PrintNumber(int numberParam)
+{
+    numberParam = 5;
+    Console.WriteLine("in PrintNumber() method, after modification, numberParam is : {0}", numberParam);
+}
+PrintNumber(numberArg);
+Console.WriteLine("in the Main() method numberArg is : {0}", numberArg);

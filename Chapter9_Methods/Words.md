@@ -3,3 +3,4 @@
 - noxious : zararlı, tehlikeli, muzır;
 - hazardous : zararlı, riskli, şüpheli;
 - impedes : engeller;
+- coincides : rastlamak, çatışmak, uymak;

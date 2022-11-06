@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "003_Passing_Arguments/1.0.0": {
+        "runtime": {
+          "003_Passing_Arguments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "003_Passing_Arguments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
