@@ -127,3 +127,5 @@
 
 - Method return type is **not** part of method signature. so we cant declare exact same 2 or more methods with exact signature but different return type. This will give compilation error!
 
+
+## Best Practices when using Methods

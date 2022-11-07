@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\bin\Debug\net6.0\012_Sorting.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\bin\Debug\net6.0\012_Sorting.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\bin\Debug\net6.0\012_Sorting.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\bin\Debug\net6.0\012_Sorting.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\bin\Debug\net6.0\012_Sorting.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\obj\Debug\net6.0\012_Sorting.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\obj\Debug\net6.0\012_Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\obj\Debug\net6.0\012_Sorting.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\obj\Debug\net6.0\012_Sorting.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\obj\Debug\net6.0\012_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\obj\Debug\net6.0\012_Sorting.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\obj\Debug\net6.0\refint\012_Sorting.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\obj\Debug\net6.0\012_Sorting.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\obj\Debug\net6.0\012_Sorting.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Examples\Chapter9_Examples\012_Sorting\obj\Debug\net6.0\ref\012_Sorting.dll
