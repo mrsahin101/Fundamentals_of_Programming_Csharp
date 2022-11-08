@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\bin\Debug\net6.0\002_GetMax.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\bin\Debug\net6.0\002_GetMax.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\bin\Debug\net6.0\002_GetMax.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\bin\Debug\net6.0\002_GetMax.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\bin\Debug\net6.0\002_GetMax.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\obj\Debug\net6.0\002_GetMax.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\obj\Debug\net6.0\002_GetMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\obj\Debug\net6.0\002_GetMax.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\obj\Debug\net6.0\002_GetMax.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\obj\Debug\net6.0\002_GetMax.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\obj\Debug\net6.0\002_GetMax.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\obj\Debug\net6.0\refint\002_GetMax.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\obj\Debug\net6.0\002_GetMax.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\obj\Debug\net6.0\002_GetMax.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax\obj\Debug\net6.0\ref\002_GetMax.dll

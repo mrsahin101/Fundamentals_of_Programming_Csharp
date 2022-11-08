@@ -129,3 +129,20 @@
 
 
 ## Best Practices when using Methods
+- Each method must resolve a **distinct, well defined task**. This is also known as **strong cohesion** . Each method only must resolve signal task. Not many!
+
+- A method has to have a **good name**. It must be descriptive what method it does!
+
+- Method names must **describe an action**, so they should contain **verb** or **verb + noun**
+
+- In C# method naming follow PascalCase. Example : SendEmail(); GetPosition(); -> this are good method names!
+
+- The method resolves the task it is created for, or returns an error!(throw exception!)
+
+- A method must have **minimum dependency** on the class in which the method is declared and to other methods and classes! This is knowns as **loose coupling**.
+
+- Method must do its job by using the data that passed to it as parameters, but not data that can be accesses from other places.(like global variables,etc)
+
+- It is recommended that the methods must be **short**. Methods are longer than computer screen are avoided!
+
+- Method should do what its name says or throw exception! Method should **never return wrong result**
