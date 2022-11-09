@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\bin\Debug\net6.0\002_GetMax_Explicit.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\bin\Debug\net6.0\002_GetMax_Explicit.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\bin\Debug\net6.0\002_GetMax_Explicit.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\bin\Debug\net6.0\002_GetMax_Explicit.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\bin\Debug\net6.0\002_GetMax_Explicit.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\obj\Debug\net6.0\002_GetMax_Explicit.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\obj\Debug\net6.0\002_GetMax_Explicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\obj\Debug\net6.0\002_GetMax_Explicit.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\obj\Debug\net6.0\002_GetMax_Explicit.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\obj\Debug\net6.0\002_GetMax_Explicit.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\obj\Debug\net6.0\002_GetMax_Explicit.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\obj\Debug\net6.0\refint\002_GetMax_Explicit.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\obj\Debug\net6.0\002_GetMax_Explicit.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\obj\Debug\net6.0\002_GetMax_Explicit.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\002_GetMax_Explicit\obj\Debug\net6.0\ref\002_GetMax_Explicit.dll
