@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\bin\Debug\net6.0\006_First_Occurence.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\bin\Debug\net6.0\006_First_Occurence.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\bin\Debug\net6.0\006_First_Occurence.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\bin\Debug\net6.0\006_First_Occurence.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\bin\Debug\net6.0\006_First_Occurence.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\obj\Debug\net6.0\006_First_Occurence.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\obj\Debug\net6.0\006_First_Occurence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\obj\Debug\net6.0\006_First_Occurence.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\obj\Debug\net6.0\006_First_Occurence.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\obj\Debug\net6.0\006_First_Occurence.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\obj\Debug\net6.0\006_First_Occurence.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\obj\Debug\net6.0\refint\006_First_Occurence.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\obj\Debug\net6.0\006_First_Occurence.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\obj\Debug\net6.0\006_First_Occurence.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\006_First_Occurence\obj\Debug\net6.0\ref\006_First_Occurence.dll

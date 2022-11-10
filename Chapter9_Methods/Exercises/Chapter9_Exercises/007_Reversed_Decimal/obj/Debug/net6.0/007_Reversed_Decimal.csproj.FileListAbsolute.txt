@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\bin\Debug\net6.0\007_Reversed_Decimal.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\bin\Debug\net6.0\007_Reversed_Decimal.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\bin\Debug\net6.0\007_Reversed_Decimal.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\bin\Debug\net6.0\007_Reversed_Decimal.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\bin\Debug\net6.0\007_Reversed_Decimal.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\obj\Debug\net6.0\007_Reversed_Decimal.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\obj\Debug\net6.0\007_Reversed_Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\obj\Debug\net6.0\007_Reversed_Decimal.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\obj\Debug\net6.0\007_Reversed_Decimal.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\obj\Debug\net6.0\007_Reversed_Decimal.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\obj\Debug\net6.0\007_Reversed_Decimal.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\obj\Debug\net6.0\refint\007_Reversed_Decimal.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\obj\Debug\net6.0\007_Reversed_Decimal.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\obj\Debug\net6.0\007_Reversed_Decimal.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\007_Reversed_Decimal\obj\Debug\net6.0\ref\007_Reversed_Decimal.dll
