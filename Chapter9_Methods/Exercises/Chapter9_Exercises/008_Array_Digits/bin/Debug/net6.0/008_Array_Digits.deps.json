@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "008_Array_Digits/1.0.0": {
+        "runtime": {
+          "008_Array_Digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "008_Array_Digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

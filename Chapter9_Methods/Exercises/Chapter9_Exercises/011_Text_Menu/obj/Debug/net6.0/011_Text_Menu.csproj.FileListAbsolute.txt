@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\bin\Debug\net6.0\011_Text_Menu.exe
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\bin\Debug\net6.0\011_Text_Menu.deps.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\bin\Debug\net6.0\011_Text_Menu.runtimeconfig.json
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\bin\Debug\net6.0\011_Text_Menu.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\bin\Debug\net6.0\011_Text_Menu.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\obj\Debug\net6.0\011_Text_Menu.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\obj\Debug\net6.0\011_Text_Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\obj\Debug\net6.0\011_Text_Menu.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\obj\Debug\net6.0\011_Text_Menu.AssemblyInfo.cs
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\obj\Debug\net6.0\011_Text_Menu.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\obj\Debug\net6.0\011_Text_Menu.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\obj\Debug\net6.0\refint\011_Text_Menu.dll
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\obj\Debug\net6.0\011_Text_Menu.pdb
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\obj\Debug\net6.0\011_Text_Menu.genruntimeconfig.cache
+C:\Users\Master\Desktop\Workspace\Fundamentals_of_Programming_CSharp\Chapter9_Methods\Exercises\Chapter9_Exercises\011_Text_Menu\obj\Debug\net6.0\ref\011_Text_Menu.dll
