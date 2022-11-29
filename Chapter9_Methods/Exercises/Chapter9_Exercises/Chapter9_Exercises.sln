@@ -29,11 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Find_Biggest_Element_in
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Factorial_Calculator", "010_Factorial_Calculator\010_Factorial_Calculator.csproj", "{1D4FFD77-885B-4270-A5CD-1AA5F92FA482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Text_Menu", "011_Text_Menu\011_Text_Menu.csproj", "{E9C86A2E-E239-4B74-9D1E-7B27EE6D7F87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_Text_Menu", "011_Text_Menu\011_Text_Menu.csproj", "{E9C86A2E-E239-4B74-9D1E-7B27EE6D7F87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Array_Digits", "008_Array_Digits\008_Array_Digits.csproj", "{8D8B4C7E-F01F-42D1-B960-C3F9281987C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Array_Digits", "008_Array_Digits\008_Array_Digits.csproj", "{8D8B4C7E-F01F-42D1-B960-C3F9281987C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Polynomials_Calculator", "012_Polynomials_Calculator\012_Polynomials_Calculator.csproj", "{9BF1B730-10AD-4D19-8266-482B7D28F7BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012_Polynomials_Calculator", "012_Polynomials_Calculator\012_Polynomials_Calculator.csproj", "{9BF1B730-10AD-4D19-8266-482B7D28F7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Polynomial_Multiplier", "013_Polynomial_Multiplier\013_Polynomial_Multiplier.csproj", "{188166BB-45C6-4542-8E43-ACAAC566BAD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{9BF1B730-10AD-4D19-8266-482B7D28F7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BF1B730-10AD-4D19-8266-482B7D28F7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BF1B730-10AD-4D19-8266-482B7D28F7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188166BB-45C6-4542-8E43-ACAAC566BAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188166BB-45C6-4542-8E43-ACAAC566BAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188166BB-45C6-4542-8E43-ACAAC566BAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188166BB-45C6-4542-8E43-ACAAC566BAD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
